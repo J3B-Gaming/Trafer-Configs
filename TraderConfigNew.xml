@@ -1,0 +1,36 @@
+<CurrencyName> #tm_ruble 
+	<Currency> MoneyRuble1, 1 
+	<Currency> MoneyRuble5, 5 
+	<Currency> MoneyRuble10, 10 
+	<Currency> MoneyRuble25, 25 
+	<Currency> MoneyRuble50, 50 
+	<Currency> MoneyRuble100, 100 
+
+
+<Trader> Tier1 Food Trader								// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
+
+	<Category> Vegetables//CategoryName
+		Apple,                                  *,        1,        -1  
+
+<Trader> Tier1 Building Trader
+
+	<Category> Tools(small)
+		Screwdriver,                            *,        300,      100   
+
+
+<Trader> Tier1 Weapon Trader
+
+	<Category> Melee
+		BrassKnuckles_Shiny,                    W,        500,      6 
+
+
+<Trader> Tier1 Weapon Supplies
+
+	<Category> Ammunition   
+		AmmoBox_357_20Rnd,                      *,        28,       -1  
+
+
+<Trader> Tier1 Clothing Trader
+		
+	<Category> Glasses
+		SportGlasses_Orange,                    *,        17,       8 
