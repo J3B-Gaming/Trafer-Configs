@@ -7,30 +7,45 @@
 	<Currency> MoneyRuble100, 100 
 
 
-<Trader> Tier1 Food Trader								// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
+<Trader> Tier 1 Trader								// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
 
-	<Category> Vegetables//CategoryName
+	<Category> Food 
+		Apple,                                  *,        1,        -1  
+		
+	<Category> Clothes 
+		Apple,                                  *,        1,        -1  
+		
+	<Category> Weapons 
+		Apple,                                  *,        1,        -1  
+		
+	<Category> Building 
 		Apple,                                  *,        1,        -1  
 
-<Trader> Tier1 Building Trader
+
+<Trader> Tier2 Food Trader								
+
+	<Category> Vegetables
+		Apple,                                  *,        1,        -1  
+
+<Trader> Tier2 Building Trader
 
 	<Category> Tools(small)
 		Screwdriver,                            *,        300,      100   
 
 
-<Trader> Tier1 Weapon Trader
+<Trader> Tier2 Weapon Trader
 
 	<Category> Melee
 		BrassKnuckles_Shiny,                    W,        500,      6 
 
 
-<Trader> Tier1 Weapon Supplies
+<Trader> Tier2 Weapon Supplies
 
 	<Category> Ammunition   
 		AmmoBox_357_20Rnd,                      *,        28,       -1  
 
 
-<Trader> Tier1 Clothing Trader
+<Trader> Tier2 Clothing Trader
 		
 	<Category> Glasses
 		SportGlasses_Orange,                    *,        17,       8 
