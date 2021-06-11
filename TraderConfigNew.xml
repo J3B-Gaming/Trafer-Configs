@@ -114,7 +114,6 @@
 		AmmoBox_00buck_10rnd,                   *,        240,       10                         
 		AmmoBox_9x39_20Rnd,                     *,        320,       20             
 		AmmoBox_9x39AP_20Rnd,                   *,        800,       60             
-		AmmoBox_308Win_20Rnd,                   *,        2000,       60 
 		
 	<Category> Misc
 		Screwdriver,                            *,        300,      100            
