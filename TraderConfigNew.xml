@@ -266,10 +266,30 @@
 		
 		
 		
-<Trader> A3 Trader
+<Trader> Black Market Trader
 		
-	<Category> Glasses
-		SportGlasses_Orange,                    *,        17,       8 
+	<Category> Cocaine
+		CuttingAgent,					1,		1000,	250
+		SulfuricAcid,					1,		2500,	1000
+		DevilsDandruff_Poppy_Plant,		1,		-1,		  25			
+		DevilsDandruff_CocaineBrick,	*,		-1,		35000	
+
+
+	<Category> POSH DRUGS
+		EazyDrugs_POSH_Individual,				*,		-1,   1000
+		EazyDrugs_POSH_JackUp,					*,		-1,   1000
+		EazyDrugs_POSH_JackUp,					*,		-1,   1000
+		EazyDrugs_POSH_CALI_RUNTZ,				*,		-1,   1000
+		EazyDrugs_POSH_Crack,					*,		-1,   3000
+		EazyDrugs_POSH_Crystal,					*,		-1,   2000
+		EazyDrugs_POSH_CBD_KOI,					*,		-1,   1000
+		EazyDrugs_POSH_HEROIN,					*,		-1,   2000
+		EazyDrugs_POSH_InsaneJoker,				*,		-1,   1000
+		EazyDrugs_POSH_JokerV2,					*,		-1,   1000
+		EazyDrugs_POSH_cbdGummy,				*,		-1,   1000
+		EazyDrugs_POSH_ParisWeed,				*,		-1,   1000
+		EazyDrugs_POSH_LAWeed,					*,		-1,   1000
+		EazyDrugs_POSH_Swissx,					*,		-1,   1000
 
 
 
