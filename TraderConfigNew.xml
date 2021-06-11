@@ -194,8 +194,57 @@
 
 <Trader> Tier3 ModItems Trader
 		
-	<Category> Glasses
-		SportGlasses_Orange,                    *,        17,       8 
+<Category> Cloud's Clothing Set Mod
+		CC_Ushanka_Brown, *, 2000, 100
+		CC_Bandana_Black, *, 2000, 100
+		CC_Bandana_Brown, *, 2000, 100
+		CC_Bandana_DarkBlue, *, 2000, 100
+		CC_Bandana_DarkGreen, *, 2000, 100
+		CC_Bandana_DarkRed, *, 2000, 100
+		CC_HikingJacket_Lime, *, 3000, 150
+		CC_HikingJacket_Orange, *, 3000, 150
+		CC_HikingJacket_Yellow, *, 3000, 150
+		CC_HuntingJacket_Black, *, 3000, 150
+		CC_QuiltedJacket_Akatsuki, *, 2000, 100
+		CC_QuiltedJacket_Asteroids, *, 2000, 100
+		CC_QuiltedJacket_Brijan, *, 2000, 100
+		CC_QuiltedJacket_Fancy, *, 2000, 100
+		CC_QuiltedJacket_Green, *, 2000, 100
+		CC_QuiltedJacket_Grey, *, 2000, 100
+		CC_QuiltedJacket_Orange, *, 2000, 100
+		CC_QuiltedJacket_Red, *, 2000, 100
+		CC_RainCoat_Brown, *, 2500, 125
+		CC_RainCoat_White, *, 2500, 125
+		CC_RidersJacket_BlackWolf, *, 3000, 200
+		CC_RidersJacket_Brown, *, 3000, 200
+		CC_RidersJacket_BrownWolf, *, 3000, 200
+		CC_RidersJacket_Red, *, 3000, 200
+		CC_RidersJacket_RedWolf, *, 3000, 200
+		CC_TrackSuitJacket_Blue, *, 2000, 250
+		CC_TrackSuitJacket_Green, *, 2000, 250
+		CC_TrackSuitJacket_Red, *, 2000, 250
+		CC_TrackSuitJacket_White, *, 2000, 250
+		CC_TrackSuitJacket_Yellow, *, 2000, 250
+		CC_TrackSuitPants_Blue, *, 2500, 250
+		CC_TrackSuitPants_Green, *, 2500, 250
+		CC_TrackSuitPants_Red, *, 2500, 250
+		CC_TrackSuitPants_White, *, 2500, 250
+		CC_TrackSuitPants_Yellow, *, 2500, 250
+		CC_DryBag_DayZ, *, 3500, 50
+		CC_DryBag_GreenMtn, *, 3500, 50
+		CC_DryBag_Itachi, *, 3500, 50
+		CC_DryBag_Survivor, *, 3500, 50
+		CC_HuntingBag_Black, *, 4000, 250
+		CC_HuntingBag_Brown, *, 4000, 250
+		CC_HuntingBag_Olive, *, 4000, 250
+		CC_HuntingBag_Tan, *, 4000, 250
+		CC_MountainBag_Black, *, 5000, 250
+		CC_MountainBag_Brown, *, 5000, 250
+		CC_MountainBag_Yellow, *, 5000, 250
+		CC_TaloonBag_Black, *, 6000, 300
+		CC_TaloonBag_Brown, *, 6000, 300
+		CC_TaloonBag_Red, *, 6000, 300
+		CC_TaloonBag_Yellow, *, 6000, 300
 		
 		
 		
