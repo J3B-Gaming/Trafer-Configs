@@ -10,16 +10,129 @@
 <Trader> Tier 1 Trader								// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
 
 	<Category> Food 
-		Apple,                                  *,        1,        -1  
+		Apple,                                  *,        1,        -1             
+		Pear,                                   *,        1,        -1             
+		Orange,                                 *,        1,        -1             
+		Banana,                                 *,        1,        -1             
+		Tomato,                                 *,        1,        -1             
+		Potato,                                 *,        1,        -1             
+		GreenBellPepper,                        *,        1,        -1             
+		Zucchini,                               *,        3,        1              
+		Pumpkin,                                *,        8,        3              
+		AgaricusMushroom,                       *,        2,        1              
+		AmanitaMushroom,                        *,        2,        1              
+		LactariusMushroom,                      *,        2,        1              
+		MacrolepiotaMushroom,                   *,        2,        1              
+		PsilocybeMushroom,                      *,        2,        1              
+		AuriculariaMushroom,                    *,        2,        1              
+		BoletusMushroom,                        *,        2,        1              
+		PleurotusMushroom,                      *,        2,        1  
+		PowderedMilk,                           *,        300,      -1 
+		BoxCerealCrunchin,                      *,        300,      50 
+		PeachesCan,                             *,        400,      100            
+		SardinesCan,                            *,        400,      100 
+		TunaCan,                                *,        400,      100   
+
+	<Category> Drinks 
+		Cola,                                   *,        500,      50 
+		Fanta,                                  *,        500,      50   
+		Sprite,                                 *,        500,      50  
 		
 	<Category> Clothes 
-		Apple,                                  *,        1,        -1  
+		SportGlasses_Orange,                    *,        17,       8              
+		SportGlasses_Blue,                      *,        18,       9              
+		SportGlasses_Black,                     *,        20,       10             
+		SportGlasses_Green,                     *,        20,       10             
+		ThinFramesGlasses,                      *,        20,       10             
+		ThickFramesGlasses,                     *,        23,       11             
+		DesignerGlasses,                        *,        30,       15             
+		AviatorGlasses,                         *,        40,       20  
+		BeanieHat_Pink,                         *,        30,       8              
+		BeanieHat_Red,                          *,        30,       8              
+		BeanieHat_Blue,                         *,        30,       8              
+		BeanieHat_Grey,                         *,        30,       8              
+		BeanieHat_Beige,                        *,        30,       8              
+		BeanieHat_Brown,                        *,        30,       8              
+		BeanieHat_Black,                        *,        31,       8              
+		BeanieHat_Green,                        *,        32,       9  
+		QuiltedJacket_Orange,                   *,        26,       6              
+		QuiltedJacket_Yellow,                   *,        26,       6              
+		QuiltedJacket_Red,                      *,        26,       6              
+		QuiltedJacket_Violet,                   *,        26,       6              
+		QuiltedJacket_Blue,                     *,        26,       6              
+		QuiltedJacket_Grey,                     *,        26,       6              
+		QuiltedJacket_Black,                    *,        28,       7              
+		QuiltedJacket_Green,                    *,        30,       7
+		AthleticShoes_Blue,                     *,        17,       4              
+		AthleticShoes_Grey,                     *,        20,       5              
+		AthleticShoes_Brown,                    *,        20,       5              
+		AthleticShoes_Black,                    *,        23,       5              
+		AthleticShoes_Green,                    *,        23,       5  
+		CivilianBelt,                           *,        100,      30   
+		ChildBag_Red,                           *,        20,       5              
+		ChildBag_Blue,                          *,        20,       5              
+		ChildBag_Green,                         *,        25,       6 
+		ChildBag_Red,                           *,        20,       5              
+		ChildBag_Blue,                          *,        20,       5              
+		ChildBag_Green,                         *,        25,       6 
+		KMP_tshirt_vandar_black_co,             *,        2500,     250              
+		KMP_tshirt_vandar_red_co,               *,        2500,     250             
+		KMP_tshirt_vandar_white_co,             *,        2500,     250 
 		
 	<Category> Weapons 
-		Apple,                                  *,        1,        -1  
+		BrassKnuckles_Shiny,                    W,        500,      6              
+		StunBaton,                              W,        1000,     100            
+		Pipe,                                   W,        1000,     100            
+		CattleProd,                             W,        1000,     150            
+		BaseballBat,                            W,        1250,     170            
+		NailedBaseballBat,                      W,        1500,     200 
+		MakarovIJ70,                            W,        2000,     400            
+		CZ75,                                   W,        2000,     400            
+		FNX45,                                  W,        2000,     400            
+		Glock19,                                W,        2000,     400            
+		MKII,                                   W,        1500,     300            
+		Colt1911,                               W,        2000,     400 
+		Expansion_M9, 				W,	  5000,     450
+		FOX_APS, W, 5500, 2500
+		FOX_FN57, W, 5500, 2500
+		FOX_PM, W, 5500, 2500
+		FOX_MP443, W, 5500, 2500
+		Izh18,                                  W,        3500,     175  
+		Mp133Shotgun,                           W,        4000,     250            
+		Izh43Shotgun,                           W,        4000,     1000  
+		Mag_IJ70_8Rnd,                          *,        300,       15             
+		Mag_CZ75_15Rnd,                         *,        400,       20             
+		Mag_Glock_15Rnd,                        *,        400,       20             
+		Mag_MKII_10Rnd,                         *,        400,       20             
+		Mag_1911_7Rnd,                          *,        400,       20             
+		Mag_FNX45_15Rnd,                        *,        400,       20  
+		AmmoBox_357_20Rnd,                      *,        280,       -1   
+		AmmoBox_380_35rnd,                      *,        280,       -1             
+		AmmoBox_9x19_25rnd,                     *,        200,       -1             
+		AmmoBox_45ACP_25rnd,                    *,        200,       -1             
+		AmmoBox_22_50Rnd,                       *,        600,       20             
+		AmmoBox_00buck_10rnd,                   *,        240,       10                         
+		AmmoBox_9x39_20Rnd,                     *,        320,       20             
+		AmmoBox_9x39AP_20Rnd,                   *,        800,       60             
+		AmmoBox_308Win_20Rnd,                   *,        2000,       60 
 		
-	<Category> Building 
-		Apple,                                  *,        1,        -1  
+	<Category> Misc
+		Screwdriver,                            *,        300,      100            
+		Wrench,                                 *,        300,      100            
+		SewingKit,                              *,        1000,     250  
+		Hammer,                                 *,        750,      357  
+		KitchenKnife,                           *,        800,      400  
+		Shovel,                                 *,        6000,     1500 
+		Battery9V,                              *,        1500,      300
+		Rangefinder,                            *,        450,      35 
+		Chemlight_Blue,                         *,        200,      100            
+		Chemlight_Green,                        *,        200,      100            
+		Chemlight_Red,                          *,        200,      101            
+		Chemlight_White,                        *,        200,      100            
+		Chemlight_Yellow,                       *,        200,      100 
+		PurificationTablets,                    *,        2500,     1250 
+		Rope,                                   *,        400,      100 
+		BBP_Land_Claim_FlagKit,			*,		10000,		2500
 
 
 <Trader> Tier2 Food Trader								
