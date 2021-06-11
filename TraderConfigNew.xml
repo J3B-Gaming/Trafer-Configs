@@ -10,23 +10,16 @@
 <Trader> Tier 1 Trader								// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
 
 	<Category> Food 
-		Apple,                                  *,        1,        -1             
-		Pear,                                   *,        1,        -1             
-		Orange,                                 *,        1,        -1             
-		Banana,                                 *,        1,        -1             
-		Tomato,                                 *,        1,        -1             
-		Potato,                                 *,        1,        -1             
-		GreenBellPepper,                        *,        1,        -1             
-		Zucchini,                               *,        3,        1              
-		Pumpkin,                                *,        8,        3              
-		AgaricusMushroom,                       *,        2,        1              
-		AmanitaMushroom,                        *,        2,        1              
-		LactariusMushroom,                      *,        2,        1              
-		MacrolepiotaMushroom,                   *,        2,        1              
-		PsilocybeMushroom,                      *,        2,        1              
-		AuriculariaMushroom,                    *,        2,        1              
-		BoletusMushroom,                        *,        2,        1              
-		PleurotusMushroom,                      *,        2,        1  
+		Heatpack,                               *,        1000,      211 
+		Apple,                                  *,        10,        -1             
+		Pear,                                   *,        10,        -1             
+		Orange,                                 *,        10,        -1             
+		Banana,                                 *,        10,        -1             
+		Tomato,                                 *,        10,        -1             
+		Potato,                                 *,        10,        -1             
+		GreenBellPepper,                        *,        10,        -1             
+		Zucchini,                               *,        30,        1              
+		Pumpkin,                                *,        80,        3               
 		PowderedMilk,                           *,        300,      -1 
 		BoxCerealCrunchin,                      *,        300,      50 
 		PeachesCan,                             *,        400,      100            
@@ -78,6 +71,54 @@
 		KMP_tshirt_vandar_black_co,             *,        2500,     250              
 		KMP_tshirt_vandar_red_co,               *,        2500,     250             
 		KMP_tshirt_vandar_white_co,             *,        2500,     250 
+
+<Category> Cloud's Clothing Set Mod
+		CC_Ushanka_Brown, *, 2000, 100
+		CC_Bandana_Black, *, 2000, 100
+		CC_Bandana_Brown, *, 2000, 100
+		CC_Bandana_DarkBlue, *, 2000, 100
+		CC_Bandana_DarkGreen, *, 2000, 100
+		CC_Bandana_DarkRed, *, 2000, 100
+		CC_HikingJacket_Lime, *, 3000, 150
+		CC_HikingJacket_Orange, *, 3000, 150
+		CC_HikingJacket_Yellow, *, 3000, 150
+		CC_HuntingJacket_Black, *, 3000, 150
+		CC_QuiltedJacket_Akatsuki, *, 2000, 100
+		CC_QuiltedJacket_Asteroids, *, 2000, 100
+		CC_QuiltedJacket_Brijan, *, 2000, 100
+		CC_QuiltedJacket_Fancy, *, 2000, 100
+		CC_QuiltedJacket_Green, *, 2000, 100
+		CC_QuiltedJacket_Grey, *, 2000, 100
+		CC_QuiltedJacket_Orange, *, 2000, 100
+		CC_QuiltedJacket_Red, *, 2000, 100
+		CC_RainCoat_Brown, *, 2500, 125
+		CC_RainCoat_White, *, 2500, 125
+		CC_RidersJacket_BlackWolf, *, 3000, 200
+		CC_RidersJacket_Brown, *, 3000, 200
+		CC_RidersJacket_BrownWolf, *, 3000, 200
+		CC_RidersJacket_Red, *, 3000, 200
+		CC_RidersJacket_RedWolf, *, 3000, 200
+		CC_TrackSuitJacket_Blue, *, 2000, 250
+		CC_TrackSuitJacket_Green, *, 2000, 250
+		CC_TrackSuitJacket_Red, *, 2000, 250
+		CC_TrackSuitJacket_White, *, 2000, 250
+		CC_TrackSuitJacket_Yellow, *, 2000, 250
+		CC_TrackSuitPants_Blue, *, 2500, 250
+		CC_TrackSuitPants_Green, *, 2500, 250
+		CC_TrackSuitPants_Red, *, 2500, 250
+		CC_TrackSuitPants_White, *, 2500, 250
+		CC_TrackSuitPants_Yellow, *, 2500, 250
+		CC_DryBag_DayZ, *, 3500, 50
+		CC_DryBag_GreenMtn, *, 3500, 50
+		CC_DryBag_Itachi, *, 3500, 50
+		CC_DryBag_Survivor, *, 3500, 50
+		CC_HuntingBag_Black, *, 4000, 250
+		CC_HuntingBag_Brown, *, 4000, 250
+		CC_HuntingBag_Olive, *, 4000, 250
+		CC_HuntingBag_Tan, *, 4000, 250
+		CC_MountainBag_Black, *, 5000, 250
+		CC_MountainBag_Brown, *, 5000, 250
+		CC_MountainBag_Yellow, *, 5000, 250
 		
 	<Category> Weapons 
 		BrassKnuckles_Shiny,                    W,        500,      6              
@@ -137,30 +178,280 @@
 <Trader> Tier2 Food Trader								
 
 	<Category> Vegetables
-		Apple,                                  *,        1,        -1  
+		Apple,                                  *,        10,        -1             
+		Pear,                                   *,        10,        -1             
+		Orange,                                 *,        10,        -1             
+		Banana,                                 *,        10,        -1             
+		Tomato,                                 *,        10,        -1             
+		Potato,                                 *,        10,        -1             
+		GreenBellPepper,                        *,        10,        -1             
+		Zucchini,                               *,        30,        1              
+		Pumpkin,                                *,        80,        3 
+	
+		
+	<Category> PackagedFood
+		PowderedMilk,                           *,        300,      -1             
+		BoxCerealCrunchin,                      *,        300,      50                        
+		Marmalade,                              *,        400,      200            
+		PeachesCan,                             *,        400,      100            
+		SardinesCan,                            *,        400,      100            
+		SpaghettiCan,                           *,        400,      100            
+		TunaCan,                                *,        400,      100    
+
+	<Category> Meat
+		ChickenBreastMeat,                      S,        400,      100            
+		GoatSteakMeat,                          S,        600,      250            
+		SheepSteakMeat,                         S,        600,      250
+
+	Cola,                                   *,        200,      50             
+		Cola_Cherry,                            *,        200,      50             
+		Cola_Light,                             *,        200,      50             
+		MonsterEnergy1,                         *,        2000,     500            
+		MonsterEnergy2,                         *,        2000,     500            
+		MonsterEnergy3,                         *,        2000,     500            
+		MonsterEnergy4,                         *,        2000,     500   
+		SodaCan_Cola,                           *,        200,      50             
+		SodaCan_Kvass,                          *,        200,      50             
+		SodaCan_Pipsi,                          *,        200,      50             
+		SodaCan_Spite,                          *,        200,      50             
+		WaterBottle,                            *,        750,      250     
+
+
+	<Category> Medications
+		CharcoalTablets,                        *,        2000,     200            
+		DisinfectantAlcohol,                    *,        2000,     2              
+		VitaminBottle,                          *,        5000,     1000           
+		TetracyclineAntibiotics,                *,        6000,     1250   
+		BandageDressing,                        2,        1250,     350            
+		BloodTestKit,                           *,        999,      399 
+		Heatpack,                               *,        500,      211   
+
+        
 
 <Trader> Tier2 Building Trader
 
 	<Category> Tools(small)
-		Screwdriver,                            *,        300,      100   
+		Screwdriver,                            *,        300,      100            
+		Wrench,                                 *,        300,      100            
+		SewingKit,                              *,        1000,     250            
+		Pliers,                                 *,        400,      100            
+		LeatherSewingKit,                       *,        1500,     500            
+		Whetstone,                              *,        500,      252            
+		Hammer,                                 *,        750,      357            
+		Hacksaw,                                *,        1000,     350            
+		HandSaw,                                *,        1000,     350    
+		KitchenKnife,                           *,        800,      400            
+		SteakKnife,                             *,        1250,     400 
+
+	<Category> Tools(big)
+		LugWrench,                              *,        4000,     1000           
+		Crowbar,                                *,        4000,     1000           
+		Shovel,                                 *,        6000,     1500           
+		Pickaxe,                                *,        6000,     1500           
+		SledgeHammer,                           *,        6000,     1500           
+		WoodAxe,                                *,        5000,     1250   
+
+	<Category> Electronics
+		Battery9V,                              *,        500,      300            
+		PersonalRadio,                          *,        1000,     500    
+		CableReel,                              *,        500,      20             
+		BatteryCharger,                         *,        500,      20   
+		Flashlight,                             *,        300,      100            
+		PortableGasLamp,                        *,        252,      100            
+		PortableGasStove,                       *,        500,      150            
+		Headtorch_Black,                        *,        400,      200 
+
+		SmallGasCanister,                       *,        785,      295            
+		MediumGasCanister,                      *,        912,      339          
 
 
 <Trader> Tier2 Weapon Trader
 
 	<Category> Melee
-		BrassKnuckles_Shiny,                    W,        500,      6 
+		BrassKnuckles_Shiny,                    W,        500,      6              
+		StunBaton,                              W,        1000,     100            
+		Pipe,                                   W,        1000,     100            
+		CattleProd,                             W,        1000,     150            
+		BaseballBat,                            W,        1250,     170            
+		NailedBaseballBat,                      W,        1500,     200            
+
+	<Category> Sidearms
+		MakarovIJ70,                            W,        2000,     400            
+		CZ75,                                   W,        2000,     400            
+		FNX45,                                  W,        2000,     400            
+		Glock19,                                W,        2000,     400            
+		MKII,                                   W,        1500,     300            
+		Colt1911,                               W,        2000,     400            
+		Engraved1911,                           W,        2500,     180 
+		Deagle,     	                        W,        2500,     180 
+
+	<Category> Rifles
+		Izh18,                                  W,        3500,     175            
+		Mosin9130,                              W,        4000,     750            
+		CZ527,                                  W,        3500,     750            
+		Winchester70,                           W,        5000,     1750           
+		SKS,                                    W,        5000,     1000
+
+	<Category> Shotguns
+		Mp133Shotgun,                           W,        4000,     250            
+		Izh43Shotgun,                           W,        4000,     1000           
+		Saiga,                                  W,        4000,     1000 
+		izh54_sawnoff_mung,                     W,        4000,     1000
+	    izh54_mung,                             W,        4000,     1000
+
+	<Category> SubmachineGuns
+		CZ61,                                   W,        5000,     1500           
+		UMP45,                                  W,        5000,     1500           
+		MP5K,                                   W,        5000,     1500 
+
+	<Category> FOX HANDGUN
+
+		FOX_APS, W, 5500, 2500
+		FOX_FN57, W, 5500, 2500
+		FOX_PM, W, 5500, 2500
+		FOX_MP443, W, 5500, 2500
 
 
 <Trader> Tier2 Weapon Supplies
 
 	<Category> Ammunition   
-		AmmoBox_357_20Rnd,                      *,        28,       -1  
+		AmmoBox_357_20Rnd,                      *,        280,       -1   
+		AmmoBox_380_35rnd,                      *,        280,       -1             
+		AmmoBox_9x19_25rnd,                     *,        200,       -1             
+		AmmoBox_45ACP_25rnd,                    *,        200,       -1             
+		AmmoBox_22_50Rnd,                       *,        600,       20             
+		AmmoBox_00buck_10rnd,                   *,        240,       10             
+		AmmoBox_12gaSlug_10Rnd,                 *,        320,       20             
+		AmmoBox_9x39_20Rnd,                     *,        320,       20             
+		AmmoBox_9x39AP_20Rnd,                   *,        800,       60             
+		AmmoBox_308Win_20Rnd,                   *,        800,       60 
+
+	<Category> Magazines
+		Mag_IJ70_8Rnd,                          *,        30,       15             
+		Mag_CZ75_15Rnd,                         *,        40,       20             
+		Mag_Glock_15Rnd,                        *,        40,       20             
+		Mag_MKII_10Rnd,                         *,        40,       20             
+		Mag_1911_7Rnd,                          *,        40,       20             
+		Mag_FNX45_15Rnd,                        *,        40,       20             
+		Mag_CZ527_5rnd,                         *,        60,       30             
+		Mag_CZ61_20Rnd,                         *,        100,      50             
+		Mag_UMP_25Rnd,                          *,        150,      75             
+		Mag_MP5_30Rnd,                          *,        200,      100            
+		Mag_FAL_20Rnd,                          *,        100,      50             
+		Mag_Saiga_5Rnd,                         *,        100,      50             
+		Mag_Saiga_8Rnd,                         *,        220,      60             
+		Mag_Saiga_Drum20Rnd,                    *,        480,      110  
+
+	<Category> Optics
+		M4_CarryHandleOptic,                    *,        150,      60             
+		BUISOptic,                              *,        150,      60             
+		FNP45_MRDSOptic,                        *,        250,      100            
+		ACOGOptic,                              *,        300,      120            
+		M68Optic,                               *,        500,      200            
+		M4_T3NRDSOptic,                         *,        500,      200            
+		KobraOptic,                             *,        600,      250            
+		KashtanOptic,                           *,        700,      300            
+		PUScopeOptic,                           *,        900,      500            
+		HuntingOptic,                           *,        1000,     550            
+		PSO1Optic,                              *,        1100,     600            
+		PSO11Optic,                             *,        1400,     840            
+		KazuarOptic,                            *,        2200,     1400 
+
+   
 
 
 <Trader> Tier2 Clothing Trader
 		
 	<Category> Glasses
-		SportGlasses_Orange,                    *,        17,       8 
+		SportGlasses_Orange,                    *,        17,       8              
+		SportGlasses_Blue,                      *,        18,       9              
+		SportGlasses_Black,                     *,        20,       10             
+		SportGlasses_Green,                     *,        20,       10             
+		ThinFramesGlasses,                      *,        20,       10             
+		ThickFramesGlasses,                     *,        23,       11             
+		DesignerGlasses,                        *,        30,       15             
+		AviatorGlasses,                         *,        40,       20             
+		TacticalGoggles,                        *,        60,       30             
+		NVGHeadstrap,                           *,        200,      120 
+
+	<Category> Gloves             
+		WorkingGloves_Yellow,                   *,        25,       6              
+		WorkingGloves_Beige,                    *,        30,       8              
+		WorkingGloves_Brown,                    *,        30,       8              
+		WorkingGloves_Black,                    *,        30,       8  
+
+	<Category> Shoes&Boots
+		AthleticShoes_Blue,                     *,        17,       4              
+		AthleticShoes_Grey,                     *,        20,       5              
+		AthleticShoes_Brown,                    *,        20,       5              
+		AthleticShoes_Black,                    *,        23,       5              
+		AthleticShoes_Green,                    *,        23,       5              
+		JoggingShoes_Violet,                    *,        30,       7              
+		JoggingShoes_Red,                       *,        30,       7              
+		JoggingShoes_Blue,                      *,        30,       7              
+		JoggingShoes_White,                     *,        30,       7              
+		JoggingShoes_Black,                     *,        30,       7              
+		Sneakers_Red,                           *,        30,       7              
+		Sneakers_White,                         *,        30,       7              
+		Sneakers_Gray,                          *,        30,       7              
+		Sneakers_Black,                         *,        31,       7              
+		Sneakers_Green,                         *,        32,       7              
+		DressShoes_White,                       *,        32,       7              
+		DressShoes_Brown,                       *,        35,       8              
+		DressShoes_Black,                       *,        35,       8              
+		DressShoes_Beige,                       *,        35,       8              
+		DressShoes_Sunburst,                    *,        35,       8              
+		HikingBootsLow_Blue,                    *,        45,       12             
+		HikingBootsLow_Grey,                    *,        45,       12             
+		HikingBootsLow_Beige,                   *,        48,       13             
+		HikingBootsLow_Black,                   *,        50,       14             
+		WorkingBoots_Yellow,                    *,        55,       12             
+		WorkingBoots_Grey,                      *,        60,       15             
+		WorkingBoots_Beige,                     *,        60,       15             
+		WorkingBoots_Brown,                     *,        60,       15             
+		WorkingBoots_Green,                     *,        65,       17             
+		HikingBoots_Brown,                      *,        75,       20             
+		HikingBoots_Black,                      *,        75,       20  
+
+	<Category> KillJoyJackets&Coats
+		KMP_M65_Jacket_DpmWinter_co,            *,        2500,     250              
+		KMP_m65_jacket_multicam_co,             *,        2500,     250               
+		KMP_hikingjacket_pink,                  *,        2500,     250              
+		KMP_hikingjacket_pink_camo,             *,        2500,     250               
+		KMP_riders_jacket_Warriors_co,          *,        2500,     250             
+		KMP_riders_jacket_Mozzie_co,            *,        2500,     250             
+		KMP_bdu_jacket_Black_co,                *,        2500,     250             
+		KMP_bdu_jacket_Multicam_co,             *,        2500,     250             
+		KMP_gorka_upper_Black,                  *,        2500,     250             
+		KMP_gorka_upper_cadpat_co,              *,        2500,     250              
+		KMP_gorka_upper_ucp_co,                 *,        2500,     250             
+		KMP_GorkaTop_Multicam_Snow_co,          *,        2500,     250             
+		KMP_STARS_jacket_co,                    *,        2500,     250             
+		KMP_SWAT_jacket_co,                     *,        2500,     250             
+		KMP_M65_Jacket_ToxicAutumn,             *,        2500,     250              
+		KMP_HuntingJacket_Pantera,              *,        2500,     250             
+		KMP_hikingjacket_Pantera,               *,        2500,     250              
+		KMP_hikingjacket_ToxicAutumn,           *,        2500,     250              
+		KMP_hikingjacket_HexCam,                *,        2500,     250             
+		KMP_hikingjacket_Black,                 *,        2500,     250              
+		KMP_M65_Jacket_Black,                   *,        2500,     250   
+
+	<Category> KillJoyPants
+		KMP_cargopants_multicam_co,             *,        2500,     250            
+		KMP_cargopants_pink_co,                 *,        2500,     250              
+		KMP_cargopants_pinkcam_co,              *,        2500,     250              
+		KMP_cargopants_Snow_co,                 *,        2500,     250               
+		KMP_bdu_pants_Black_co,                 *,        2500,     250              
+		KMP_bdu_pants_Multicam_co,              *,        2500,     250            
+		KMP_gorka_pants_Black,                  *,        2500,     250              
+		KMP_gorka_pants_cadpat_CO,              *,        2500,     250              
+		KMP_gorka_pants_ucp_co,                 *,        2500,     250              
+		KMP_GorkaPants_Multicam_Snow_co,        *,        2500,     250             
+		KMP_STARS_pants_co,                     *,        2500,     250            
+		KMP_SWAT_pants_co,                      *,        2500,     250             
+		KMP_cargoPants_Pantera,                 *,        2500,     250               
+		KMP_CargoPants_HexCam,                  *,        2500,     250              
+		KMP_CargoPants_ToxicAutumn,             *,        2500,     250          
 
 
 <Trader> Tier3 Food Trader								
@@ -250,16 +541,364 @@
 		
 <Trader> Heli Trader
 		
-	<Category> Glasses
-		SportGlasses_Orange,                    *,        17,       8 
-		
+	<Category> Helicopters
+	ExpansionUh1h, VNK, 850000, 175000
+	ExpansionMh6, VNK, 850000, 175000
+	ExpansionMerlin, VNK, 850000, 175000
+	ExpansionGyrocopter, VNK, 125000, 175000
 
-
+	<Category> Helicopter Parts
+	ExpansionHelicopterBattery, *, 50000, 10000
+	ExpansionHydraulicHoses, *, 50000, 10000
+	ExpansionIgniterPlug, *, 50000, 10000
+	ExpansionCarKey, *, 5000, -1 
+			
 
 <Trader> Car Trader
 		
-	<Category> Glasses
-		SportGlasses_Orange,                    *,        17,       8 
+	<Category> VanillaVehicles
+		OffroadHatchback_Blue,                  VNK,        24000,    8000           
+		OffroadHatchback_White,                 VNK,        24000,    8000           
+		Hatchback_02_Blue,                      VNK,        30000,    9600           
+		Hatchback_02,                           VNK,        30000,    9600           
+		Hatchback_02_Black,                     VNK,        30000,    9600           
+		Sedan_02,                               VNK,        36000,    10200          
+		Sedan_02_Red,                           VNK,        36000,    10200          
+		Sedan_02_Grey,                          VNK,        36000,    10200          
+		CivilianSedan,                          VNK,        45000,    11000          
+		CivilianSedan_Wine,                     VNK,        45000,    11000          
+		CivilianSedan_Black,                    VNK,        45000,    11000          
+
+	<Category> V3S
+		Truck_01_Covered_Orange,                VNK,        75000,    29000          
+		Truck_01_Covered_Blue,                  VNK,        75000,    29000          
+		Truck_01_Covered,                       VNK,        75000,    29000
+
+	<Category> ATV
+		dbo_atv,      VNK, 34000, 16000
+		SUR_ATV_HAKI, VNK, 34000, 16000
+		SUR_ATV_RED,  VNK, 34000, 16000
+		atv_wheel, *, 1000, 400		
+
+	<Category> Expansion
+		ExpansionUAZRoofless, 					VNK,		30000, 15000
+		ExpansionUAZ,							VNK, 	    30000, 15000
+		ExpansionUAZCargo, 						VNK, 		30000, 15000
+		ExpansionUAZCargoRoofless, 				VNK, 		30000, 15000
+		ExpansionBus, 							VNK,		50000, 25000
+		ExpansionVodnik, 						VNK, 		100000, 50000
+		ExpansionTractor, 						VNK, 		15000, 7500	
+
+	<Category> RagHummer 250 Slots    
+		rag_hummer_Armored_250,               VNK,    200000,       75000
+		rag_hummer_green_Armored_250,         VNK,    200000,       75000
+		rag_hummer_tan_Armored_250,           VNK,    200000,       75000
+	    rag_hummer_woodland_Armored_250,      VNK,    200000,       75000
+		rag_hummer_pink_Armored_250,          VNK,    200000,       75000
+		rag_hummer_winter_Armored_250,        VNK,    200000,       75000
+		rag_hummer_anarchy_Armored_250,       VNK,    200000,       75000
+
+	<Category> RagHummer 500 Slots         
+		rag_hummer_Armored_500,               VNK,    300000,       150000
+		rag_hummer_green_Armored_500,         VNK,    300000,       150000
+		rag_hummer_tan_Armored_500,           VNK,    300000,       150000
+	    rag_hummer_woodland_Armored_500,      VNK,    300000,       150000
+		rag_hummer_pink_Armored_500,          VNK,    300000,       150000
+		rag_hummer_winter_Armored_500,        VNK,    300000,       150000
+		rag_hummer_anarchy_Armored_500,       VNK,    300000,       150000
+
+	<Category> RagHummer 1000 Slots 		
+		rag_hummer_Armored,     		    	VNK,    500000,       250000
+		rag_hummer_green_Armored,       	  VNK,    500000,       250000
+		rag_hummer_tan_Armored,        	   	  VNK,    500000,       250000
+	    rag_hummer_woodland_Armored,    	  VNK,    500000,       250000
+		rag_hummer_pink_Armored,       		  VNK,    500000,       250000
+		rag_hummer_winter_Armored,      	  VNK,    500000,       250000
+		rag_hummer_anarchy_Armored,   	      VNK,    550000,       250000         
+      
+
+    <Category> B Rover 
+        Bastard_Rover_stock,    VNK,  250000,  75000
+        Bastard_Rover_skin1,    VNK,  250000,  75000
+        Bastard_Rover_skin2,    VNK,  250000,  75000
+		
+	<Category>Land Rover Defender
+		land_rover_defender, VNK, 250000, 25000
+		land_rover_defender_green, VNK, 250000, 25000
+		land_rover_defender_red, VNK, 250000, 25000
+		land_rover_defender_pink, VNK, 250000, 25000          	
+  
+    <Category> Volkswagen Golf 
+		VWGolf,						VNK,	300000,	175000
+		VWGolf_White,				VNK,	300000,	175000
+		VWGolf_Carbon,				VNK,	350000,	175000
+		VWGolf_Black,				VNK,	300000,	175000
+		VWGolf_Blue,				VNK,	300000,	175000
+		VWGolf_Redwine,				VNK,	300000,	175000
+	
+
+	<Category>LandRover
+		CrSk_Land_Rover_Defender_110,    		VNK,        350000,   140000
+		CrSk_Land_Rover_Defender_110_Green,     VNK,        350000,   140000         
+		CrSk_Land_Rover_Defender_110_Red,       VNK,        350000,   140000         
+		CrSk_Land_Rover_Defender_110_UN,        VNK,        350000,   140000 
+
+	<Category> TrailBlazer SUV
+		TrailTester,					    VNK, 450000, 120000
+		TrailTester_black, 					VNK, 450000, 120000
+		trailtester_winter, 				VNK, 450000, 120000   
+		     
+
+	<Category> VanillaVehicleParts
+		HeadlightH7_Box,                        *,        30,       15             
+		SparkPlug,                              *,        60,       40             
+		EngineOil,                              *,        70,       40             
+		CarBattery,                             *,        10000,    2000  
+		CarRadiator,                            *,        10000,    2000		
+		TruckBattery,                           *,        180,      100                        
+		TireRepairKit,                          *,        220,      100            
+		HatchbackHood,                          *,        300,      100            
+		HatchbackHood_Blue,                     *,        300,      100            
+		HatchbackHood_White,                    *,        300,      100            0            
+		HatchbackTrunk,                         *,        380,      130            
+		HatchbackTrunk_Blue,                    *,        380,      130            
+		HatchbackTrunk_White,                   *,        380,      130                        
+		HatchbackDoors_Driver,                  *,        450,      160            
+		HatchbackDoors_Driver_Blue,             *,        450,      160            
+		HatchbackDoors_Driver_White,            *,        450,      160                       
+		HatchbackDoors_CoDriver,                *,        450,      160            
+		HatchbackDoors_CoDriver_Blue,           *,        450,      160            
+		HatchbackDoors_CoDriver_White,          *,        450,      160                       
+		HatchbackWheel,                         *,        5000,      100            
+		Hatchback_02_Hood,                      *,        300,      100            
+		Hatchback_02_Hood_Black,                *,        300,      100            
+		Hatchback_02_Hood_Blue,                 *,        300,      100                      
+		Hatchback_02_Trunk,                     *,        380,      130            
+		Hatchback_02_Trunk_Black,               *,        380,      130            
+		Hatchback_02_Trunk_Blue,                *,        380,      130                       
+		Hatchback_02_Door_1_1,                  *,        450,      160            
+		Hatchback_02_Door_1_1_Black,            *,        450,      160            
+		Hatchback_02_Door_1_1_Blue,             *,        450,      160                       
+		Hatchback_02_Door_1_2,                  *,        450,      160            
+		Hatchback_02_Door_1_2_Black,            *,        450,      160            
+		Hatchback_02_Door_1_2_Blue,             *,        450,      160                       
+		Hatchback_02_Door_2_1,                  *,        450,      160            
+		Hatchback_02_Door_2_1_Black,            *,        450,      160            
+		Hatchback_02_Door_2_1_Blue,             *,        450,      160                       
+		Hatchback_02_Door_2_2,                  *,        450,      160            
+		Hatchback_02_Door_2_2_Black,            *,        450,      160            
+		Hatchback_02_Door_2_2_Blue,             *,        450,      160                  
+		Hatchback_02_Wheel,                     *,        5000,      100            
+		Sedan_02_Hood,                          *,        300,      100            
+		Sedan_02_Hood_Red,                      *,        300,      100            
+		Sedan_02_Hood_Grey,                     *,        300,      100                       
+		Sedan_02_Trunk,                         *,        450,      150            
+		Sedan_02_Trunk_Red,                     *,        450,      150            
+		Sedan_02_Trunk_Grey,                    *,        450,      150                        
+		Sedan_02_Door_1_1,                      *,        450,      160            
+		Sedan_02_Door_1_1_Red,                  *,        450,      160            
+		Sedan_02_Door_1_1_Grey,                 *,        450,      160                        
+		Sedan_02_Door_1_2,                      *,        450,      160            
+		Sedan_02_Door_1_2_Red,                  *,        450,      160            
+		Sedan_02_Door_1_2_Grey,                 *,        450,      160                       
+		Sedan_02_Door_2_1,                      *,        450,      160            
+		Sedan_02_Door_2_1_Red,                  *,        450,      160            
+		Sedan_02_Door_2_1_Grey,                 *,        450,      160                     
+		Sedan_02_Door_2_2,                      *,        450,      160            
+		Sedan_02_Door_2_2_Red,                  *,        450,      160            
+		Sedan_02_Door_2_2_Grey,                 *,        450,      160                       
+		Sedan_02_Wheel,                         *,        5000,      100            
+		CivSedanHood,                           *,        400,      140            
+		CivSedanHood_Wine,                      *,        400,      140            
+		CivSedanHood_Black,                     *,        400,      140                       
+		CivSedanTrunk,                          *,        450,      150            
+		CivSedanTrunk_Wine,                     *,        450,      150            
+		CivSedanTrunk_Black,                    *,        450,      150                   
+		CivSedanDoors_Driver,                   *,        500,      180            
+		CivSedanDoors_Driver_Wine,              *,        500,      180            
+		CivSedanDoors_Driver_Black,             *,        500,      180                        
+		CivSedanDoors_CoDriver,                 *,        500,      180            
+		CivSedanDoors_CoDriver_Wine,            *,        500,      180            
+		CivSedanDoors_CoDriver_Black,           *,        500,      180            
+		CivSedanDoors_BackLeft,                 *,        500,      180            
+		CivSedanDoors_BackLeft_Wine,            *,        500,      180            
+		CivSedanDoors_BackLeft_Black,           *,        500,      180                       
+		CivSedanDoors_BackRight,                *,        500,      180            
+		CivSedanDoors_BackRight_Wine,           *,        500,      180            
+		CivSedanDoors_BackRight_Black,          *,        500,      180                        
+		CivSedanWheel,                          *,        6000,      120            
+
+	<Category> V3SParts
+		SparkPlug,                              *,        1000,     400            
+		TruckBattery,                           *,        5000,     2000           
+		HeadlightH7,                            *,        7000,     3500           
+		Truck_01_Hood_Blue,                     *,        6000,     3000           
+		Truck_01_Door_1_1_Blue,                 *,        6000,     3000           
+		Truck_01_Door_2_1_Blue,                 *,        6000,     3000           
+		Truck_01_Hood_Orange,                   *,        6000,     3000           
+		Truck_01_Door_1_1_Orange,               *,        6000,     3000           
+		Truck_01_Door_2_1_Orange,               *,        6000,     3000           
+		Truck_01_Hood,                          *,        6000,     3000           
+		Truck_01_Door_1_1,                      *,        6000,     3000           
+		Truck_01_Door_2_1,                      *,        6000,     3000           
+		Truck_01_WheelDouble,                   *,        10000,     3000           
+		Truck_01_Wheel,                         *,        6000,     2000  
+
+	<Category> RagHummerParts
+      		  rag_hummer_Door_1,			  *,		2500,	1000
+		rag_hummer_Door_green_1,	  *,		2500,	1000
+		rag_hummer_Door_tan_1,	      *,		2500,	1000
+		rag_hummer_Door_woodland_1,	  *,		2500,	1000
+		rag_hummer_Door_pink_1,	      *,		2500,	1000
+		rag_hummer_Door_anarchy_1,	  *,		2500,	1000
+		rag_hummer_Door_winter_1,	  *,		2500,	1000
+       		 rag_hummer_Door_2,			  *,		2500,	1000
+		rag_hummer_Door_green_2,	  *,		2500,	1000
+		rag_hummer_Door_tan_2,	      *,		2500,	1000
+		rag_hummer_Door_woodland_2,	  *,		2500,	1000
+		rag_hummer_Door_pink_2,	      *,		2500,	1000
+		rag_hummer_Door_anarchy_2,	  *,		2500,	1000
+		rag_hummer_Door_winter_2,	  *,		2500,	1000
+		rag_hummer_Door_3,			  *,		2500,	1000
+		rag_hummer_Door_green_3,	  *,		2500,	1000
+		rag_hummer_Door_tan_3,	      *,		2500,	1000
+		rag_hummer_Door_woodland_3,	  *,		2500,	1000
+		rag_hummer_Door_pink_3,	      *,		2500,	1000
+		rag_hummer_Door_anarchy_3,	  *,		2500,	1000
+		rag_hummer_Door_winter_3,	  *,		2500,	1000
+		rag_hummer_Door_4,			  *,		2500,	1000
+		rag_hummer_Door_green_4,	  *,		2500,	1000
+		rag_hummer_Door_tan_4,	      *,		2500,	1000
+		rag_hummer_Door_woodland_4,	  *,		2500,	1000
+		rag_hummer_Door_pink_4,	      *,		2500,	1000
+		rag_hummer_Door_anarchy_4,	  *,		2500,	1000
+		rag_hummer_Door_winter_4,	  *,		2500,	1000
+		rag_hummer_Hood,			  *,		2500,	1000
+		rag_hummer_Hood_green,		  *,		2500,	1000
+		rag_hummer_Hood_tan,		  *,		2500,	1000
+		rag_hummer_Hood_woodland,	  *,		2500,	1000
+		rag_hummer_Hood_pink,		  *,		2500,	1000
+		rag_hummer_Hood_anarchy,	  *,		2500,	1000
+		rag_hummer_Hood_winter,	      *,		2500,	1000
+		rag_hummer_Trunk,			  *,		2500,	1000
+		rag_hummer_Trunk_green,	      *,		2500,	1000
+		rag_hummer_Trunk_tan,		  *,		2500,	1000
+		rag_hummer_Trunk_woodland,	  *,		2500,	1000
+		rag_hummer_Trunk_pink,	      *,		2500,	1000
+		rag_hummer_Trunk_anarchy,	  *,		2500,	1000
+		rag_hummer_Trunk_winter,	  *,		2500,	1000
+		rag_hummer_wheel,			  *,		2500,	1000          
+
+		
+    <Category> B Rover Parts
+        Bastard_Rover_driverdoor_stock,		*,	4500,	1600
+        Bastard_Rover_codriverdoor_stock,	*,	4500,	1600
+        Bastard_Rover_hooddoor_stock,		*,	3000,	1000
+        Bastard_Rover_trunkdoor_stock,		*,	3800,	1300
+        Bastard_Rover_driverdoor_skin1,		*,	4500,	1600
+        Bastard_Rover_codriverdoor_skin1,	*,	4500,	1600
+        Bastard_Rover_hooddoor_skin1,		*,	3000,	1000
+        Bastard_Rover_trunkdoor_skin1,		*,	3800,	1300
+        Bastard_Rover_driverdoor_skin2,		*,	4500,	1600
+        Bastard_Rover_codriverdoor_skin2,	*,	4500,	1600
+        Bastard_Rover_hooddoor_skin2,		*,	3000,	1000
+        Bastard_Rover_trunkdoor_skin2,		*,	3800,	1300
+        Roverwheel_5x165,			*,	5000,	1000	
+		
+	<Category> Land Defender Parts
+		lrdefenderdoors_codriver, *, 450, 260
+		lrdefenderdoors_driver, *, 450, 260
+		lrdefenderdoors_trunk, *, 450, 260
+		lrdefenderdoors_hood, *, 450, 260
+		lrdefenderdoors_codriver_green, *, 450, 260
+		lrdefenderdoors_driver_green, *, 450, 260
+		lrdefenderdoors_trunk_green, *, 450, 260
+		lrdefenderdoors_hood_green, *, 450, 260
+		lrdefenderdoors_codriver_red, *, 450, 260
+		lrdefenderdoors_driver_red, *, 450, 260
+		lrdefenderdoors_trunk_red, *, 450, 260
+		lrdefenderdoors_hood_red, *, 450, 260
+		lrdefenderdoors_codriver_pink, *, 450, 260
+		lrdefenderdoors_driver_pink, *, 450, 260
+		lrdefenderdoors_trunk_pink, *, 450, 260
+		lrdefenderdoors_hood_pink, *, 450, 260
+		lrdefender_wheel, *, 1450, 500
+
+	<Category> Volkswagen Golf Parts
+   	     Golf_Driver,					*,	10000,	500
+       	    Golf_CoDriver,					*,	10000,	500
+		Golf_Doorbackright,				*,	10000,	500
+		Golf_Doorbackleft,				*,	10000,	500
+		Golf_Trunk,						*,	10000,	500
+		Golf_Hood,						*,	10000,	500
+		Golf_Wheel,						*,	80000,	2500
+		Golf_Wheel_Blue,				*,	80000,	5000
+		Golf_Wheel_Chrome_Red,			*,	80000,	5000
+		Golf_Wheel_Devil_Red,			*,	80000,	5000
+		Golf_Wheel_Devil_Red_1,			*,	80000,	5000
+		Golf_Wheel_Spilled_Red,			*,	80000,	5000
+        	 Golf_Driver_Black,				*,	10000,	500
+    	        Golf_CoDriver_Black,			*,	10000,	500
+		Golf_Doorbackright_Black,		*,	10000,	500
+		Golf_Doorbackleft_Black,		*,	10000,	500
+		Golf_Trunk_Black,				*,	10000,	500
+		Golf_Hood_Black,				*,	10000,	500
+   	        Golf_Driver_White,				*,	10000,	500
+  	        Golf_CoDriver_White,			*,	10000,	500
+		Golf_Doorbackright_White,		*,	10000,	500
+		Golf_Doorbackleft_White,		*,	10000,	500
+		Golf_Trunk_White,				*,	10000,	500
+		Golf_Hood_White,				*,	10000,	500
+        Golf_Driver_Carbon,				*,	10000,	500
+        Golf_CoDriver_Carbon,			*,	10000,	500
+		Golf_Doorbackright_Carbon,		*,	10000,	500
+		Golf_Doorbackleft_Carbon,		*,	10000,	500
+		Golf_Trunk_Carbon,				*,	10000,	500
+		Golf_Hood_Carbon,				*,	10000,	500
+        Golf_Driver_Blue,				*,	10000,	500
+        Golf_CoDriver_Blue,				*,	10000,	500
+		Golf_Doorbackright_Blue,		*,	10000,	500
+		Golf_Doorbackleft_Blue,			*,	10000,	500
+		Golf_Trunk_Blue,				*,	10000,	500
+		Golf_Hood_Blue,					*,	10000,	500
+        Golf_Driver_Redwine,			*,	10000,	500
+        Golf_CoDriver_Redwine,			*,	10000,	500
+		Golf_Doorbackright_Redwine,		*,	10000,	500
+		Golf_Doorbackleft_Redwine,		*,	10000,	500
+		Golf_Trunk_Redwine,				*,	10000,	500
+		Golf_Hood_Redwine,				*,	10000,	500	
+		
+<Category> TrailBlazer SUV Parts
+		TrailTesterHood, 					*, 10000, 250
+		TrailTesterHood_black 				*, 10000, 250
+		TrailTesterdoors_cargo1,			*, 10000, 250
+		TrailTesterdoors_cargo2, 			*, 10000, 250
+		TrailTesterdoors_cargo1_black, 		*, 10000, 250
+		TrailTesterdoors_cargo2_black, 		*, 10000, 250
+		TrailTesterdoors_driver, 			*, 10000, 250
+		TrailTesterdoors_driver_black,		*, 10000, 250
+		TrailTesterdoors_codriver, 			*, 10000, 250
+		TrailTesterdoors_codriver_black,    *, 10000, 250
+		TrailTesterTrunk, 					*, 10000, 250
+		TrailTesterTrunk_black, 			*, 10000, 250
+		trailtesterHood_winter, 			*, 10000, 250
+		trailtesterdoors_cargo1_winter, 	*, 10000, 250
+		trailtesterdoors_cargo2_winter, 	*, 10000, 250
+		trailtesterdoors_driver_winter, 	*, 10000, 250
+		trailtesterdoors_codriver_winter,   *, 10000, 250
+		trailtesterTrunk_winter, 			*, 10000, 250
+		TrailTesterWheel, 					*, 5000, 150
+		Bruiser_Armour, 	*, 15000, 350
+		BruiserTrunkArmour, *, 15000, 350
+		BruiserHoodArmour,  *, 15000, 350
+		Bruiser_ArmourRR,   *, 15000, 350
+		Bruiser_ArmourRL,   *, 15000, 350
+		Bruiser_ArmourDD,   *, 15000, 350
+		Bruiser_ArmourCDD,  *, 15000, 350
+		Bruiser_ArmourC1,   *, 15000, 350
+		Bruiser_ArmourC2,   *, 15000, 350
+		Bruiser_BullBars,   *, 10000, 350
+		Bruiser_Skull,      *, 10000, 350
 		
 		
 		
@@ -269,15 +908,14 @@
 <Trader> Black Market Trader
 		
 	<Category> Cocaine
-		CuttingAgent,					1,		1000,	250
-		SulfuricAcid,					1,		2500,	1000
-		DevilsDandruff_Poppy_Plant,		1,		-1,		  25			
-		DevilsDandruff_CocaineBrick,	*,		-1,		35000	
+		CuttingAgent,					*,		1000,	250
+		SulfuricAcid,					*,		2500,	1000
+		DevilsDandruff_Poppy_Plant,			1,		-1,		  25			
+		DevilsDandruff_CocaineBrick,			*,		-1,		35000	
 
 
 	<Category> POSH DRUGS
 		EazyDrugs_POSH_Individual,				*,		-1,   1000
-		EazyDrugs_POSH_JackUp,					*,		-1,   1000
 		EazyDrugs_POSH_JackUp,					*,		-1,   1000
 		EazyDrugs_POSH_CALI_RUNTZ,				*,		-1,   1000
 		EazyDrugs_POSH_Crack,					*,		-1,   3000
