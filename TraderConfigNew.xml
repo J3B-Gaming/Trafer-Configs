@@ -1348,18 +1348,19 @@
 
 	<Category> Expansion Weapons
 		ExpansionFlaregun, *, 1000, 500
-		Expansion_M9, *, 5000, 450
-		Expansion_G36, *, 10000, 500
-		Expansion_MPX, *, 10000, 500
-		Expansion_MP7, *, 10000, 500
-		Expansion_Kedr, *, 10000, 500
-		Expansion_M16, *, 10000, 500
-		Expansion_M1A, *, 10000, 500
-		Expansion_DT11, *, 10000, 500
-		Expansion_BenelliM4, *, 10000, 500
-		Expansion_AWM, *, 10000, 500 
-		Expansion_Crossbow, *, 10000, 2500 
-		Expansion_VityazSN, *, 10000, 2500 
+		Expansion_M9, w, 5000, 450
+		Expansion_G36, w, 10000, 500
+		Expansion_MPX, w, 10000, 500
+		Expansion_MP7, w, 10000, 500
+		Expansion_Kedr, w, 10000, 500
+		Expansion_M16, w, 10000, 500
+		Expansion_M1A, w, 10000, 500
+		Expansion_DT11, w, 10000, 500
+		Expansion_BenelliM4, w, 10000, 500
+		Expansion_AWM, w, 10000, 500 
+		Expansion_Crossbow, w, 10000, 2500 
+		Expansion_VityazSN, w, 10000, 2500 
+		Expansion_M14, w, 10000, 2500 
 
 	<Category> FOX HANDGUN
 
