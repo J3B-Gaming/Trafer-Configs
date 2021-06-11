@@ -162,3 +162,75 @@
 		
 	<Category> Glasses
 		SportGlasses_Orange,                    *,        17,       8 
+
+
+<Trader> Tier3 Food Trader								
+
+	<Category> Vegetables
+		Apple,                                  *,        1,        -1  
+
+<Trader> Tier3 Building Trader
+
+	<Category> Tools(small)
+		Screwdriver,                            *,        300,      100   
+
+
+<Trader> Tier3 Weapon Trader
+
+	<Category> Melee
+		BrassKnuckles_Shiny,                    W,        500,      6 
+
+
+<Trader> Tier3 Weapon Supplies
+
+	<Category> Ammunition   
+		AmmoBox_357_20Rnd,                      *,        28,       -1  
+
+
+<Trader> Tier3 Clothing Trader
+		
+	<Category> Glasses
+		SportGlasses_Orange,                    *,        17,       8 
+		
+
+<Trader> Tier3 ModItems Trader
+		
+	<Category> Glasses
+		SportGlasses_Orange,                    *,        17,       8 
+		
+		
+		
+<Trader> Heli Trader
+		
+	<Category> Glasses
+		SportGlasses_Orange,                    *,        17,       8 
+		
+
+
+
+<Trader> Car Trader
+		
+	<Category> Glasses
+		SportGlasses_Orange,                    *,        17,       8 
+		
+		
+		
+		
+		
+		
+<Trader> A3 Trader
+		
+	<Category> Glasses
+		SportGlasses_Orange,                    *,        17,       8 
+
+
+
+
+
+
+
+
+
+
+
+
