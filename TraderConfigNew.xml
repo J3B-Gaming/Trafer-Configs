@@ -700,8 +700,8 @@
 		Handcuffs,                              *,        500,      150            
 		Netting,                                1,        499,      199            
 		BurlapSack,                             *,        750,      250            
-		WoodenPlank,                            10,       2500,     1750           
-		WoodenLog,                              1,        500,      2500           
+		WoodenPlank,                            10,       4000,     1750           
+		WoodenLog,                              1,        2500,      2500           
 		MetalPlate,                             *,        4000,     1800           
 		SmallProtectorCase,                     *,        1000,     350            
 		AmmoBox,                                *,        1250,     375            
@@ -1247,12 +1247,7 @@
 		BaseballBat,                            W,        1250,     170            
 		NailedBaseballBat,                      W,        1500,     200            
 
-	<Category> Sidearms
-		MakarovIJ70,                            W,        2000,     400            
-		CZ75,                                   W,        2000,     400            
-		FNX45,                                  W,        2000,     400            
-		Glock19,                                W,        2000,     400            
-		MKII,                                   W,        1500,     300            
+	<Category> Sidearms0            
 		Colt1911,                               W,        2000,     400            
 		Engraved1911,                           W,        2500,     180 
 		Deagle,     	                        W,        2500,     180 
