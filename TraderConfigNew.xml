@@ -1270,7 +1270,6 @@
 		Saiga,                                  W,        4000,     1000 
 		izh54_sawnoff_mung,                     W,        4000,     1000
 	    izh54_mung,                             W,        4000,     1000
-air_weapon_spas,			W,		2700,	1100
 
 	<Category> SubmachineGuns
 		CZ61,                                   W,        5000,     1500           
@@ -1347,23 +1346,6 @@ air_weapon_spas,			W,		2700,	1100
 		MassSVT40_Green,                        W,        30000,    3500           
 		MassSVT40_Camo,                         W,        30000,    3500 
 
-	<Category> Dead Air Assult Rifles
-air_weapon_l85a1,					W,		4500,	1100
-air_weapon_aug,					W,		4500,	1100
-air_weapon_type81,				W,		4500,	1100
-air_weapon_fn2000,				W,		4500,	1100
-air_weapon_g36,					W,		4500,	1100
-air_weapon_groza,					W,		4500,	1100
-air_weapon_ak74,					W,		2500,	700
-air_weapon_aksu,					W,		2500,	700
-air_weapon_akm, 					W,		3000,	900
-air_weapon_sg550,					W,		3000,	900
-air_weapon_akm_2,				W,		3000,	900
-air_weapon_abakan,				W,		3000,	900
-air_weapon_lvoa,					W,		3000,	900
-air_weapon_g3,					W,		3000,	900
-air_weapon_g36c,					W,		3000,	900
-air_weapon_stg,					W,		3000,	900
 
 	<Category> Expansion Weapons
 		ExpansionFlaregun, *, 1000, 500
@@ -1417,13 +1399,6 @@ air_weapon_stg,					W,		3000,	900
 
 		FOX_EVO, W, 20000, 5000
 		FOX_AKS74UN, W, 15000, 10000 
-
-	<Category> Dead Air Sub-Maschine-Guns
-air_weapon_MP40,			W,		2000,		300
-air_weapon_hk51,			W,		4300,		1300
-air_weapon_9a91,			W,		4000,		1200
-air_weapon_ppsh41,			W,		4000,		1200
-air_weapon_p90,			W,		4000,		1200
 
 
 <Trader> Tier3 Weapon Supplies
@@ -1606,14 +1581,6 @@ air_weapon_p90,			W,		4000,		1200
 		Ammo_Expansion_46x30, *, 100, 50
 		Ammo_Expansion_338, *, 100, 50
 
-	<Category> Dead Air Ammo
-
-AmmoBox_762x25_25Rnd,	*,              2000,           2
-AmmoBox_9x18_20Rnd,	*,              2000,           2
-AmmoBox_57x28_AP_60rnd,	*,              2000,           2
-AmmoBox_57x28_60rnd,	*,              2000,           2
-AmmoBox_792x57_60Rnd,	*,              2000,           2
-AmmoBox_792x33_35Rnd,	*,              2000,           2
 
 	<Category> Expansion Mags
 		Mag_Expansion_M14_20Rnd, *, 500, 250
@@ -3756,18 +3723,6 @@ FOX_KAR98_Bayonet, *, 1500, 550
 		Massm300,                       W,        100000,   10000           
 		Massm300_camo,                  W,        110000,   10000 
 		Massm24,                        W,        40000,    7500	
-		air_weapon_pkm,			W,		58000,		2000
-		air_weapon_rpk,			W,		54000,		2000
-		air_weapon_m240,		W,		53000,		2000
-		air_weapon_mg42,		W,		53000,		200
-		air_weapon_bulldog,		W,		53000,		200
-		air_weapon_kastet,		W,		53000,		200
-		Ammo_Air_GP25_Flashbang,	W,		53000,		200
-		Ammo_Air_GP25_Smoke_White,	W,		53000,		200
-		Ammo_Air_GP25_HE,		W,		53000,		200
-		air_weapon_psg,			W,		53000,		200
-air_weapon_lr300, 			W,		11600,	2000
-air_weapon_aws, 			W,		11000,	2000
 		FOX_A545, 			W,        40000,    7500
 		ExpansionRPG7, *, 100000, 10000
 		ExpansionLAW, *, 100000, 10000
