@@ -710,10 +710,25 @@
 
 	<Category> TeddyWeaponPack T1
 
-
-
-
-
+TWP_Beretta92FS,				W,   	600,	0	// 9x19
+TWP_Beretta92FSDesert,			W,   	600,	0
+TWP_Beretta92FS_mag_15Rnd,		M,		100,	0
+TWP_BerettaPX4,					W,   	600,	0	// 9x19
+		TWP_BerettaPX4_mag_17Rnd,		M,		100,	0
+		TWP_MP443,						W,		600,	0	// 9x19
+		TWP_MP443_mag_18Rnd,			M,		100,	0
+		TWP_P8,							W,		600,	0	// 9x19
+		TWP_P8_mag_15Rnd,				M,		100,	0
+		TWP_SigSauerP226,				W,		600,	0	// 357
+		TWP_SigSauerP226_mag_12Rnd,		M,		100,	0
+		TWP_SigSauerP229,				W,		600,	0	// 9x19
+		TWP_SigSauerP229_mag_13Rnd,		M,		100,	0
+		TWP_SigSauerP250,				W,		600,	0	// 45ACP
+		TWP_SigSauerP250_mag_10Rnd,		M,		100,	0
+		TWP_Tokarev,					W,		600,	0	//380ACP
+		TWP_Tokarev_mag_8Rnd,			M,		100,	0
+		TWP_WaltherPPK,					W,		600,	0	// 380ACP
+		TWP_WaltherPPK_mag_8Rnd,		M,		100,	0
 	<Category> TeddyWeaponPack T1 melee
 
 
@@ -724,21 +739,39 @@
 
 
 	<Category> TeddyWeaponPack T2  Mags
-
-
-
-
+TWP_BerettaDE_mag_15Rnd,		M,		250,	0
+TWP_Colt1911Stainless_mag_7Rnd,	M,		100,	0
+TWP_FNS9_mag_18Rnd,				M,		100,	0
+TWP_MP40_mag_15Rnd,				M,		100,	0
+TWP_SP1Vektor_mag_15Rnd, 		M,		100,	0
 	<Category> TeddyWeaponPack T2 Melee
-
+TWP_NailedBat,					W,		7500,	0
+		TWP_SawBat,						W,		7500,	0
+		TWP_Mjolnir,					W,		7500,	0
+		TWP_Rose,						W,		7500,	0
+		TWP_Kukri,						W,		7500,	0
+		TWP_Kukri_Gradient,				W,		7500,	0
+		TWP_Kukri_Sakura,				W,		7500,	0
+		TWP_Kukri_Engraved,				W,		7500,	0
+		TWP_SmithWesson_Knife_Green,	W,		7500,	0
+		TWP_SmithWesson_Knife_Black,	W,		7500,	0
+		TWP_HolyMakarel,				W,		7500,	0
+		TWP_NinjaSword,					W,		7500,	0
+		TWP_Axe,						W,		7500,	0
+		TWP_FirefighterAxe,				W,		7500,	0
+		TWP_SledgeHammer,				W,		7500,	0
 
 
 	<Category> TeddyWeaponPack T2  Pistols
-
-
-
-
-
-
+TWP_BerettaDEBurton,			W,   	1000,	0	// 44Mag
+		TWP_BerettaDEBlack,				W,   	1000,	0	// 44Mag
+		TWP_BerettaDE_mag_15Rnd,		M,		250,	0
+TWP_Colt1911Stainless,			W,   	600,	0	// 45ACP
+TWP_DesertEagleFalcon,			W,   	2200,	0	// 44Mag
+TWP_FNS9,						W,   	600,	0	// 9x19
+TWP_HK47,						W,		600,	0	// 9x19
+TWP_MP40,						W,		600,	0	// 40SW
+TWP_SP1Vektor,					W,		600,	0	// 9x19
 
 	<Category> TeddyWeaponPack T2  Sub Machine
 
@@ -773,12 +806,18 @@
 
 
 	<Category> TeddyWeaponPack T3  Mags
-
-
-
-
-
-
+TWP_1911_WilsonCombat_mag_7Rnd,	M,		100,	0
+TWP_CZ75M_mag_20Rnd,			M,		100,	0
+TWP_DesertEagle_mag_7Rnd,		M,		500,	0
+TWP_DesertEagleFalcon_mag_7Rnd,	M,		400,	0
+TWP_Glock42_mag_12Rnd,			M,		100,	0
+		TWP_Glock42_mag_50Rnd,			M,		300,	0
+TWP_HK47_mag_15Rnd,				M,		100,	0
+TWP_HK47Tan_mag_15Rnd,			M,		100,	0
+TWP_LugerP08_mag_8Rnd,			M,		100,	0
+TWP_MK23Socom_mag_12Rnd,		M,		100,	0
+TWP_SR1Gyrza_mag_18Rnd, 		M,		100,	0
+TWP_Glock17_mag_19Rnd,			M,		100,	0
 	<Category> TeddyWeaponPack T3 Melee
 
 
@@ -787,12 +826,16 @@
 
 
 	<Category> TeddyWeaponPack T3  Pistols
-
-
-
-
-
-
+TWP_1911_WilsonCombat,			W,   	600,	0	// 45ACP
+TWP_CZ75M,						W,   	600,	0	// 9x19
+TWP_DesertEagle,				W,   	2500,	0	// 50AE
+		TWP_DesertEagleSky,				W,   	2500,	0	// 50AE
+TWP_Glock42,					W,   	600,	0	//380ACP
+TWP_HK47Tan,					W,		600,	0	// 9x19
+TWP_LugerP08,					W,		600,	0	// 9x19
+TWP_MK23Socom,					W,		600,	0	// 45ACP
+TWP_SR1Gyrza,					W,		600,	0	//380ACP
+TWP_Glock17,					W,		600,	0	// 9x19
 
 	<Category> TeddyWeaponPack T3  Sub Machine
 
@@ -830,3 +873,46 @@
 
 
 	<Category> TeddyWeaponPack  Mission guns 
+TWP_BerettaGoldenFlower,		W,   	600,	0	// 9x19
+TWP_BerettaSwordCutlass,		W,   	600,	0	// 9x19
+TWP_BerettaSwordCutlass_mag_20Rnd,		M,		100,	0
+TWP_Colt1911Gold,				W,   	600,	0	// 45ACP
+TWP_Colt1911Gold_mag_7Rnd,		M,		100,	0
+TWP_Colt1911Holy,				W,   	600,	0	// 45ACP
+TWP_Colt1911Holy_mag_7Rnd,		M,		100,	0
+TWP_FN57Pink,					W,   	600,	0	// 5.7x28
+TWP_FN57Pink_mag_15Rnd,			M,		100,	0
+TWP_FN57Toxic,					W,   	600,	0	// 5.7x28
+		TWP_FN57Toxic_mag_15Rnd,		M,		100,	0
+		TWP_Glock18Egyptian,			W,   	600,	0	// 9x19
+		TWP_Glock18Egyptian_mag_17Rnd,	M,		100,	0
+		TWP_Glock18Honor,				W,   	600,	0	// 9x19
+		TWP_Glock18Honor_mag_17Rnd,		M,		100,	0
+		TWP_Glock18Jungle,				W,   	600,	0	// 9x19	
+		TWP_Glock18Jungle_mag_17Rnd,	M,		100,	0
+		TWP_Glock18Rebel,				W,   	600,	0	// 9x19
+		TWP_Glock18Rebel_mag_17Rnd,		M,		100,	0
+		TWP_Glock18Weasel,				W,   	600,	0	// 9x19
+		TWP_Glock18Weasel_mag_17Rnd,	M,		100,	0
+		TWP_Glock18Wolf,				W,   	600,	0	// 9x19
+		TWP_Glock18Wolf_mag_17Rnd,		M,		100,	0
+		TWP_P2000BlueGirl,				W,		600,	0	// 9x19
+		TWP_P2000BlueGirl_mag_16Rnd,	M,		100,	0
+		TWP_P2000Protector,				W,		600,	0	// 9x19
+		TWP_P2000Protector_mag_16Rnd,	M,		100,	0
+		TWP_P2000Renegade,				W,		600,	0	// 9x19
+		TWP_P2000Renegade_mag_16Rnd,	M,		100,	0
+		TWP_P2000Toxic,					W,		600,	0	// 9x19
+		TWP_P2000Toxic_mag_16Rnd,		M,		100,	0
+		TWP_Glock19M,					W,   	600,	0	// 9x19
+		TWP_Glock19M_mag_15Rnd,			M,		100,	0
+		TWP_GlockZapper,				W,		600,	0	// 9x19
+		TWP_GlockZapper_mag_15Rnd,		M,		100,	0
+		TWP_USPChromatic,				W,		600,	0	// 9x19	
+		TWP_USPChromatic_mag_15Rnd,		M,		100,	0
+		TWP_USPPsychodelic,				W,		600,	0	// 9x19
+		TWP_USPPsychodelic_mag_15Rnd,	M,		100,	0
+		TWP_WaltherP99,					W,		600,	0	// 9x19
+		TWP_WaltherP99_mag_15Rnd,		M,		100,	0
+		TWP_WaltherQ5,					W,		600,	0	// 9x19
+		TWP_WaltherQ5_mag_15Rnd,		M,		100,	0	
