@@ -3596,7 +3596,6 @@
 		Massm300,                       W,        100000,   10000           
 		Massm300_camo,                  W,        110000,   10000 
 		Massm24,                        W,        40000,    7500	
-		FOX_A545, 			W,        40000,    7500
 		ExpansionRPG7, *, 100000, 10000
 		ExpansionLAW, *, 100000, 10000
 		Expansion_M79, *, 100000, 10000	
