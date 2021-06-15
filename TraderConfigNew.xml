@@ -134,10 +134,6 @@
 		MKII,                                   W,        1500,     300            
 		Colt1911,                               W,        2000,     400 
 		Expansion_M9, 				W,	  5000,     450
-		FOX_APS, W, 5500, 2500
-		FOX_FN57, W, 5500, 2500
-		FOX_PM, W, 5500, 2500
-		FOX_MP443, W, 5500, 2500
 		Izh18,                                  W,        3500,     175  
 		Mp133Shotgun,                           W,        4000,     250            
 		Izh43Shotgun,                           W,        4000,     1000  
@@ -304,12 +300,6 @@
 		UMP45,                                  W,        5000,     1500           
 		MP5K,                                   W,        5000,     1500 
 
-	<Category> FOX HANDGUN
-
-		FOX_APS, W, 5500, 2500
-		FOX_FN57, W, 5500, 2500
-		FOX_PM, W, 5500, 2500
-		FOX_MP443, W, 5500, 2500
 
 
 <Trader> Tier2 Weapon Supplies
@@ -1358,42 +1348,6 @@
 		Expansion_VityazSN, w, 10000, 2500 
 		Expansion_M14, w, 10000, 2500 
 
-	<Category> FOX HANDGUN
-
-		FOX_APS, W, 5500, 2500
-		FOX_FN57, W, 5500, 2500
-		FOX_PM, W, 5500, 2500
-		FOX_MP443, W, 5500, 2500
-
-	<Category> FOX ASSAULT RIFLE
-
-		FOX_FNFAL_TAC, W, 25000, 5000
-		FOX_HK417, W, 25000, 15000
-		FOX_HK417_BROWN, W, 25000, 10000
-		FOX_HK417_OLIVE, W, 25000, 10000
-		FOX_HK417_SNOW, W, 25000, 10000
-		FOX_HK416D, W, 25000, 10000
-		FOX_HK416D_SAND, W, 25000, 10000
-		FOX_HK416D_OLIVE, W, 25000, 10000
-		FOX_HK416D_SNOW, W, 25000, 10000
-		FOX_HK416D_CQB, W, 25000, 10000
-		FOX_HK416D_CQB_SAND, W, 25000, 10000
-		FOX_HK416D_CQB_OLIVE, W, 25000, 10000
-		FOX_HK416D_CQB_SNOW, W, 25000, 10000
-		FOX_HK416A7, W, 25000, 10000
-		FOX_HK416A7_CAMO_AUTUMN, W, 25000, 10000
-		FOX_HK416A7_CAMO_SUMMER, W, 25000, 10000
-		FOX_HK416A7_CAMO_WINTER, W, 25000, 10000
-		FOX_M16A3, W, 25000, 10000
-		FOX_ASVAL, W, 25000, 5000
-		FOX_KAR98K, W, 25000, 5000
-		FOX_SKS_TAC, W, 25000, 5000
-
-
-	<Category> FOX SUBMACHINE
-
-		FOX_EVO, W, 20000, 5000
-		FOX_AKS74UN, W, 15000, 10000 
 
 
 <Trader> Tier3 Weapon Supplies
@@ -1587,82 +1541,6 @@
 		Mag_Expansion_MP7_40Rnd, *, 500, 250
 		Mag_Expansion_AWM_5Rnd, *, 500, 250	
 
-	<Category> FOX HANDGRD
-
-FOX_HK417_hndgrd, *, 1500, 150
-FOX_HK416A7_hndgrd, *, 1500, 150
-FOX_HK416D_hndgrd, *, 1500, 150
-FOX_FNFAL_hndgrd_rail, *, 1500, 150
-FOX_FNFAL_hndgrd, *, 1500, 150
-FOX_FNFAL_hndgrd_para, *, 1500, 550
-FOX_SVD_hndgrd, *, 1500, 150
-FOX_SVDS_hndgrd, *, 1500, 150
-FOX_EVO_hndgrd, *, 1500, 150
-FOX_AKS74U_hndgrd, *, 1500, 150
-FOX_AKS74URIS_hndgrd, *, 1500, 150
-FOX_M16A3_hndgrd, *, 1500, 150
-FOX_M16A3_RIShndgrd, *, 1500, 150
-FOX_HB_hndgrd, *, 1500, 550
-FOX_A545_hndgrd, *, 1500, 550
-
-	<Category> FOX MAGS
-
-FOX_Mag_FAL_10rnd, 10, 1500, 550
-FOX_Mag_FAL_20rnd, 20, 1700, 550
-FOX_Mag_FAL_30rnd, 30, 2500, 550
-FOX_Mag_Stanag_60rnd, 60, 4500, 550
-FOX_Mag_Stanag_60rnd_Black, 60, 4500, 550
-FOX_Mag_HK417_20rnd, 20, 2500, 550
-FOX_Mag_EVO, 20, 2500, 550
-FOX_Mag_FN57_20Rnd, 20, 2500, 550
-FOX_Mag_FN57_30Rnd, 30, 3000, 500
-FOX_Mag_APS, 10, 1500, 550
-FOX_Mag_PM, 6, 1500, 550
-FOX_Mag_MP443, 6, 1500, 550
-FOX_Mag_ASVAL_20Rnd, 20, 2500, 550
-FOX_Mag_HB_30rnd, 30, 3500, 550
-FOX_Mag_HB_30rnd_brown, 30, 3500, 550
-FOX_Mag_HB_30rnd_green, 30, 3500, 550
-FOX_Mag_HB_30rnd_gray, 30, 3500, 550
-FOX_Mag_SKS_TAC, 5, 1500, 550
-
-	<Category> FOX SUPPRESSOR
-
-FOX_APS_Suppressor, *, 1500, 550
-FOX_VSS_Suppressor, *, 1500, 550
-FOX_SVD_Suppressor, *, 1500, 550
-FOX_308_Suppressor, *, 1500, 550
-FOX_HB_Suppressor, *, 1500, 550
-
-	<Category> FOX BUTTSTOCK
-
-FOX_ASVAL_Bttstck, *, 1500, 150
-FOX_AK_BttstckTac, *, 1500, 150
-FOX_EVO_Bttstck, *, 1500, 150
-FOX_HK416A7_Bttstck, *, 1500, 150
-FOX_HK416D_Bttstck, *, 1500, 150
-FOX_HK417_Bttstck, *, 1500, 150
-FOX_FNFAL_BttstckPara, *, 1500, 550
-FOX_FNFAL_BttstckPolimer, *, 1500, 550
-FOX_FNFAL_Bttstck, *, 1500, 150
-FOX_HB_Bttstck, *, 1500, 550
-FOX_A545_Bttstck, *, 1500, 550
-
-	<Category> FOX AMMO
-
-Ammo_57x28, 40, 3000, -1
-Ammo_57x28AP, 40, 3000, -1
-Ammo_9x18, 35, 3000, -1
-93x64_AmmoBox_20rnd, *, 3000, -1
-Ammo_AACBLK, *, 3000, -1
-AACBLK_AmmoBox_20rnd, *, 3000, -1
-9x18_AmmoBox_35rnd, *, 3000, -1
-57x28AP_AmmoBox_25rnd, *, 3000, -1
-57x28_AmmoBox_25rnd, *, 3000, -1	
-792x57FOX_AmmoBox_20rnd, *, 3000, -1
-
-FOX_KAR98_Optic, *, 1500, 550
-FOX_KAR98_Bayonet, *, 1500, 550 
 
 
 <Trader> Tier3 Clothing Trader
@@ -3722,17 +3600,6 @@ FOX_KAR98_Bayonet, *, 1500, 550
 		ExpansionRPG7, *, 100000, 10000
 		ExpansionLAW, *, 100000, 10000
 		Expansion_M79, *, 100000, 10000	
-		FOX_SR25, 38000, 14000
-		FOX_SR25_GREEN, 38000, 14000
-		FOX_SR25_TAN, 38000, 14000	
-		FOX_SVD, W, 38000, 14000
-		FOX_SVDM, W, 38000, 14000
-		FOX_FNFAL_PARA, W, 35000, 15000
-		FOX_FNFAL, W, 35000, 15000
-		FOX_VSS, W, 35000, 15000
-		FOX_HONEY_BADGER, W, 40000, 15000
-		FOX_HONEY_BADGER_OLIVE, W, 45000, 15000
-		FOX_HONEY_BADGER_TAN, W, 45000, 15000
 		ExpansionAmmoRPG, *, 20000, 2000
 		ExpansionAmmoLAW, *, 20000, 2000
 
