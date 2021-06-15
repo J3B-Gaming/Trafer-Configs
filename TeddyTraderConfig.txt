@@ -705,3 +705,128 @@
 		TWP_Cosmetic_Trashcan,		*,		1000,	0
 		TWP_Cosmetic_Turbo,			*,		1000,	0
 		TWP_Cosmetic_Zombiehead,	*,		1000,	0
+
+
+
+	<Category> TeddyWeaponPack T1
+
+
+
+
+
+	<Category> TeddyWeaponPack T1 melee
+
+
+
+
+	<Category> TeddyWeaponPack T2  Ammo
+
+
+
+	<Category> TeddyWeaponPack T2  Mags
+
+
+
+
+	<Category> TeddyWeaponPack T2 Melee
+
+
+
+	<Category> TeddyWeaponPack T2  Pistols
+
+
+
+
+
+
+
+	<Category> TeddyWeaponPack T2  Sub Machine
+
+
+
+
+
+
+
+
+	<Category> TeddyWeaponPack T2  shotguns
+
+
+
+
+
+
+	<Category> TeddyWeaponPack T2  rifles
+
+
+
+
+
+	<Category> TeddyWeaponPack T2  Snipers
+
+
+
+
+
+
+	<Category> TeddyWeaponPack T3  Ammo
+
+
+	<Category> TeddyWeaponPack T3  Mags
+
+
+
+
+
+
+	<Category> TeddyWeaponPack T3 Melee
+
+
+
+
+
+
+	<Category> TeddyWeaponPack T3  Pistols
+
+
+
+
+
+
+
+	<Category> TeddyWeaponPack T3  Sub Machine
+
+
+
+
+
+
+
+
+	<Category> TeddyWeaponPack T3  shotguns
+
+
+
+
+
+
+	<Category> TeddyWeaponPack T3  rifles
+
+
+
+
+
+	<Category> TeddyWeaponPack T3  Snipers
+
+
+
+
+
+
+	<Category> TeddyWeaponPack BMT
+
+
+
+
+
+	<Category> TeddyWeaponPack  Mission guns 
