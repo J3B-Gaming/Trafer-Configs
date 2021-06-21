@@ -1,29 +1,29 @@
-<Category> TeddyWeaponPack T1
+	<Category> TeddyWeaponPack T1
 		TWP_Beretta92FS,				W,   	600,	0	// 9x19
 		TWP_Beretta92FSDesert,			W,   	600,	0
-		TWP_Beretta92FS_mag_15Rnd,		M,		100,	0
-		TWP_BerettaPX4,					W,   	600,	0	// 9x19
-		TWP_BerettaPX4_mag_17Rnd,		M,		100,	0
-		TWP_MP443,						W,		600,	0	// 9x19
-		TWP_MP443_mag_18Rnd,			M,		100,	0
-		TWP_P8,							W,		600,	0	// 9x19
-		TWP_P8_mag_15Rnd,				M,		100,	0
-		TWP_SigSauerP226,				W,		600,	0	// 357
-		TWP_SigSauerP226_mag_12Rnd,		M,		100,	0
-		TWP_SigSauerP229,				W,		600,	0	// 9x19
-		TWP_SigSauerP229_mag_13Rnd,		M,		100,	0
-		TWP_SigSauerP250,				W,		600,	0	// 45ACP
-		TWP_SigSauerP250_mag_10Rnd,		M,		100,	0
+		TWP_BerettaPX4,					W,   	600,	0	// 9x19	
+		TWP_MP443,						W,		600,	0	// 9x19	
+		TWP_P8,							W,		600,	0	// 9x19		
+		TWP_SigSauerP226,				W,		600,	0	// 357		
+		TWP_SigSauerP229,				W,		600,	0	// 9x19		
+		TWP_SigSauerP250,				W,		600,	0	// 45ACP		
 		TWP_Tokarev,					W,		600,	0	//380ACP
-		TWP_Tokarev_mag_8Rnd,			M,		100,	0
 		TWP_WaltherPPK,					W,		600,	0	// 380ACP
 		TWP_Airbow,						W,		5000,	0	//Arrow
 
+	<Category> TeddyWeaponPack T1 Ammo
+		TWP_Ammo_Arrow,				1,		10,		0
+		
 	<Category> TeddyWeaponPack T1 mags
 		TWP_WaltherPPK_mag_8Rnd,		M,		100,	0
-	
-	
-	
+		TWP_Beretta92FS_mag_15Rnd,		M,		100,	0
+		TWP_BerettaPX4_mag_17Rnd,		M,		100,	0
+		TWP_MP443_mag_18Rnd,			M,		100,	0
+		TWP_P8_mag_15Rnd,				M,		100,	0
+		TWP_SigSauerP226_mag_12Rnd,		M,		100,	0
+		TWP_SigSauerP229_mag_13Rnd,		M,		100,	0
+		TWP_SigSauerP250_mag_10Rnd,		M,		100,	0
+		TWP_Tokarev_mag_8Rnd,			M,		100,	0
 	<Category> TeddyWeaponPack T2 Melee
 		TWP_NailedBat,					W,		7500,	0
 		TWP_SawBat,						W,		7500,	0
@@ -87,7 +87,6 @@
 		TWP_AK47,					W,		8000,	0	//762x39
 		TWP_AK47Blue,				W,		8000,	0	//762x39
 		TWP_ACE23,					W,		8000,	0	//556x45
-		TWP_Ash12,					W,		8000,	0	//50BMG
 		TWP_ACR,					W,		8000,	0	//762x39
 		TWP_ACWR,					W,		8000,	0	//762x39			
 		TWP_AG43,					W,		8000,	0	//762x39	
@@ -99,7 +98,7 @@
 		TWP_AK47Blue,				W,		8000,	0	//762x39
 		TWP_AEK971,					W,		8000,	0	//545x39
 		TWP_Arisaka,					W,		5000,	0	//762x54
-
+		TWP_M1Carbine,					W,		5000,	0 	//30Carbine
 
 	<Category> TeddyWeaponPack T2  Mags
 		TWP_AK9_mag_30Rnd,			M,		2500,	0
@@ -121,8 +120,9 @@
 		TWP_UMP_mag_35Rnd,				M,		1000,	0
 		TWP_MPX_mag_30Rnd,				M,		1000,	0
 		TWP_Spas15_mag_8Rnd,		M,		1000,	0
-	
-	
+		TWP_M1Carbine_mag_15Rnd,		M,		2000,	0
+		TWP_AmmoBox_30Carbine_30Rnd,	*,	300,	0
+		TWP_Ammo_30Carbine,			1,		20,		0
 	<Category> TeddyWeaponPack T3 Melee
 		TWP_NailedBat,					W,		7500,	0
 		TWP_SawBat,						W,		7500,	0
@@ -320,7 +320,6 @@
 		TWP_G43,						W,		5000,	0	//762x54
 		TWP_Kar98,						W,		5000,	0	// 762x54
 		TWP_L96A1,						W,		5000,	0	//308.win	
-		TWP_M1Carbine,					W,		5000,	0 	//30Carbine
 		TWP_M1Garand,					W,		5000,	0	// 30-06
 		TWP_M14,						W,		5000,	0 	//308Win
 		TWP_M110,						W,		5000,	0 	//308Win
@@ -333,7 +332,6 @@
 		TWP_MosinNagant,				W,		5000,	0	//762x54
 		TWP_PSG1,						W,		5000,	0	//308Win
 		TWP_R700Mod,					W,		5000,	0	// 300WinMag
-		TWP_R700_mag_10Rnd,				M,		2000,	0
 		TWP_Remington700,				W,		5000,	0	//308.win
 		TWP_RemingtonMSR,				W,		5000,	0	//308.win
 		TWP_Sako75,						W,		5000,	0	//308.win
@@ -352,6 +350,7 @@
 	
 	
 	<Category> TeddyWeaponPack T3 Mags
+		TWP_R700_mag_10Rnd,				M,		2000,	0
 		TWP_ACE23_mag_30Rnd,		M,		2500,	0
 		TWP_ACR_mag_30Rnd,			M,		2500,	0
 		TWP_ACWR_mag_30Rnd,			M,		2500,	0
@@ -492,7 +491,6 @@
 		TWP_G43_mag_10Rnd,				M,		2000,   0
 		TWP_AWM_mag_5Rnd,				M,		2000,	0
 		TWP_L96A1_mag_5Rnd,				M,		2000,	0
-		TWP_M1Carbine_mag_15Rnd,		M,		2000,	0
 		TWP_M14_mag_20Rnd,				M,		2000,	0
 		TWP_M110_mag_20Rnd,				M,		2000,	0
 		TWP_M24_mag_4Rnd,				M,		2000,	0
@@ -523,9 +521,6 @@
 		TWP_AA12Black_mag_32Rnd,	M,		1000,	0
 	
 	<Category> TeddyWeaponPack T3 Bayonets
-		TWP_BoarBayonet,			*,		1500,	0
-		TWP_WolfBayonet,			*,		1500,	0
-		TWP_WhiteWolfBayonet,		*,		1500,	0
 		TWP_M9A1_Bayonet,			*,		1500,	0
 		TWP_M16_Bayonet,			*,		1500,	0
 		TWP_Kar98_Bayonet,			*,		1500,	0
@@ -544,10 +539,8 @@
 		TWP_AmmoBox_762x25_30Rnd,	*,		300,	0
 		TWP_Ammobox_408Cheytac_10Rnd,	*,	300,	0
 		TWP_Ammobox_6x35_20Rnd,		*,		300,	0
-		TWP_AmmoBox_30Carbine_30Rnd,	*,	300,	0
 		TWP_AmmoBox_300WinMag_20Rnd,	*,	300,	0
 		TWP_AmmoBox_20x102mm_10Rnd,		*,	300,	0
-		TWP_Ammo_30Carbine,			1,		20,		0
 		TWP_Ammo_300WinMag,			1,		20,		0
 		TWP_Ammo_20x102mm,			1,		20,		0
 		TWP_Ammo_20x76,				1,		20,		0
@@ -559,7 +552,6 @@
 		TWP_Ammo_40SW,				1,		10,		0
 		TWP_Ammo_46x30,				1,		10,		0
 		TWP_Ammo_57x28,				1,		10,		0
-		TWP_Ammo_Arrow,				1,		10,		0
 		TWP_Ammo_408Cheytac,		1,		10,		0
 		TWP_Ammo_762x25,			1,		10,		0
 		TWP_Ammo_6x35,				1,		10,		0
@@ -618,7 +610,7 @@
 		TWP_BarrettM82_mag_10Rnd,		M,		2000,	0
 		TWP_VSSK_mag_5Rnd,				M,		2000,	0
 		TWP_Beowulf_mag_10Rnd,			M,		2000,	0
-	
+		TWP_Ash12_mag_10Rnd,		M,		2500,	0
 	
 	<Category> TeddyWeaponPack BMT
 		TWP_M200,						W,		5000,	0	//408 Chey
@@ -629,11 +621,16 @@
 		TWP_VSSK,						W,		5000,	0	//50bmg
 		TWP_Ash12,					    W,		8000,	0	//50BMG
 		TWP_Beowulf,					W,		5000,	0	//50BMG
-	
+		TWP_Ash12,					W,		8000,	0	//50BMG
 	
 	
 	
 	<Category> TeddyWeaponPack  Mission guns 
+	
+	<Bayonets>
+		TWP_BoarBayonet,			*,		1500,	0
+		TWP_WolfBayonet,			*,		1500,	0
+		TWP_WhiteWolfBayonet,		*,		1500,	0
 		
 	<Pistols>
 		TWP_BerettaGoldenFlower,		W,   	600,	0	// 9x19
@@ -730,7 +727,6 @@
 		TWP_ScarDragon_mag_50Rnd,	M,		2500,	0
 		TWP_Anzio_mag_3Rnd,				M,		2000,	0
 		TWP_FRF2BlackDragon_mag_10Rnd,	M,		2000,	0
-		TWP_Ash12_mag_10Rnd,		M,		2500,	0
 		TWP_MP7Eagle,					W,		2000,	0	// 4.6x30
 		TWP_MP7Eagle_mag_30Rnd,			M,		700,	0
 		TWP_P90Arctic,					W,		2000,	0	// 5.7x28
