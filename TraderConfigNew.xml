@@ -3573,19 +3573,21 @@
 		DevilsDandruff_CocaineBrick,			*,		-1,		35000	
 
 
-	<Category> POSH DRUGS
+	<Category> POSH DRUGS T1
 		EazyDrugs_POSH_cbdGummy,				*,		-1,   2000
 		EazyDrugs_POSH_CBD_KOI,					*,		-1,   2500
 		EazyDrugs_POSH_Individual,				*,		-1,   5000
 		EazyDrugs_POSH_JackUp,					*,		-1,   7500
 		EazyDrugs_POSH_CALI_RUNTZ,				*,		-1,   10000
-
+	
+	<Category> POSH DRUGS T2
 		EazyDrugs_POSH_InsaneJoker,				*,		-1,   12500
 		EazyDrugs_POSH_JokerV2,					*,		-1,   15000
 		EazyDrugs_POSH_ParisWeed,				*,		-1,   20000
 		EazyDrugs_POSH_LAWeed,					*,		-1,   22500
 		EazyDrugs_POSH_Swissx,					*,		-1,   25000
 
+	<Category> POSH DRUGS T3
 		EazyDrugs_POSH_Crystal,					*,		-1,   30000
 		EazyDrugs_POSH_HEROIN,					*,		-1,   40000
 		EazyDrugs_POSH_Crack,					*,		-1,   50000
