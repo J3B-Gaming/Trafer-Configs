@@ -485,21 +485,6 @@
 		TWP_KacPDW_mag_30Rnd,			M,		100,	0
 		TWP_Spectre_mag_30Rnd,			M,		100,	0
 		TWP_Mac10_mag_32Rnd,			M,		1000,	0
-		TWP_AmericanRifle_mag_5Rnd,		M,		2000,	0
-		TWP_ASW338_mag_5Rnd,			M,		2000,	0
-		TWP_FRF2_mag_5Rnd,				M,		2000,	0
-		TWP_G43_mag_10Rnd,				M,		2000,   0
-		TWP_AWM_mag_5Rnd,				M,		2000,	0
-		TWP_L96A1_mag_5Rnd,				M,		2000,	0
-		TWP_M14_mag_20Rnd,				M,		2000,	0
-		TWP_M110_mag_20Rnd,				M,		2000,	0
-		TWP_M24_mag_4Rnd,				M,		2000,	0
-		TWP_RemingtonMSR_mag_5Rnd,		M,		2000,	0
-		TWP_SSG69_mag_5Rnd,				M,		2000,	0
-		TWP_SV98NovaPriam_mag_5Rnd,		M,		2000,	0
-		TWP_M40A5_mag_5Rnd,				M,		2000,	0
-		TWP_PSG1_mag_5Rnd,				M,		2000,	0
-		TWP_Dragunov_mag_10Rnd,			M,		2000,	0
 		TWP_SVT38_mag_10Rnd,			M,		2000,	0	
 		TWP_AmericanRifle_mag_5Rnd,		M,		2000,	0
 		TWP_ASW338_mag_5Rnd,			M,		2000,	0
