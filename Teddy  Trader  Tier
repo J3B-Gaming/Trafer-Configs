@@ -88,8 +88,7 @@
 		TWP_AK47Blue,				W,		8000,	0	//762x39
 		TWP_ACE23,					W,		8000,	0	//556x45
 		TWP_ACR,					W,		8000,	0	//762x39
-		TWP_ACWR,					W,		8000,	0	//762x39			
-		TWP_AG43,					W,		8000,	0	//762x39	
+		TWP_ACWR,					W,		8000,	0	//762x39				
 		TWP_AK9,					W,		8000,	0	//9x39		
 		TWP_AK12,					W,		8000,	0	//545x39
 		TWP_AK12Green,				W,		8000,	0	//545x39
@@ -173,7 +172,6 @@
 		TWP_ACR,					W,		8000,	0	//762x39
 		TWP_ACWR,					W,		8000,	0	//762x39
 		TWP_AEK971,					W,		8000,	0	//545x39
-		TWP_AG43,					W,		8000,	0	//762x39
 		TWP_AK103,					W,		8000,	0	//762x39
 		TWP_AK105,					W,		8000,	0	//545x39
 		TWP_AMD,					W,		8000,	0	//762x39
@@ -218,12 +216,8 @@
 		TWP_HK416Urban,				W,		8000,	0	//556x45
 		TWP_HK416Wood,				W,		8000,	0	//556x45
 		TWP_HK417,					W,		8000,	0	//556x45
-		TWP_HKCarabine,				W,		8000,	0	//556x45
 		TWP_IA2,						W,		8000,	0	//556x45
 		TWP_K2C,						W,		8000,	0	//556x45
-		TWP_AK5C,						W,		8000,	0	//762x39
-		TWP_AK5CGreen,					W,		8000,	0	//762x39
-		TWP_AK5CGrey,					W,		8000,	0	//762x39
 		TWP_LR300,						W,		8000,	0	//556x45
 		TWP_LR300Camo,					W,		8000,	0	//556x45
 		TWP_M4A1Black,					W,		8000,	0
@@ -243,8 +237,7 @@
 		TWP_OTSGrosa,					W,		8000,	0	//762x39	
 		TWP_ParaSA58,					W,		8000,	0	//308.win	
 		TWP_PindadSS2,					W,		8000,	0	//556x45
-		TWP_PP19Bison,			    	W,		8000,	0	//9x19	
-		TWP_PLR16,					    W,		8000,	0	//556x45	
+		TWP_PP19Bison,			    	W,		8000,	0	//9x19		
 		TWP_PPSH,				    	W,		8000,	0	//45ACP
 		TWP_PKM,				    	W,		8000,	0	//762x54
 		TWP_QBZ03,				        W,		8000,	0	//556x45
@@ -354,7 +347,6 @@
 		TWP_ACE23_mag_30Rnd,		M,		2500,	0
 		TWP_ACR_mag_30Rnd,			M,		2500,	0
 		TWP_ACWR_mag_30Rnd,			M,		2500,	0
-		TWP_AG43_mag_20Rnd,			M,		2500,	0
 		TWP_AK103_mag_30Rnd,		M,		2500,	0
 		TWP_AK105_mag_30Rnd,		M,		2500,	0
 		TWP_AMD_mag_30Rnd,			M,		2500,	0
@@ -369,7 +361,6 @@
 		TWP_Ash12_mag_10Rnd,		M,		2500,	0
 		TWP_ACR_mag_30Rnd,			M,		2500,	0
 		TWP_ACWR_mag_30Rnd,			M,		2500,	0
-		TWP_AG43_mag_20Rnd,			M,		2500,	0
 		TWP_AK9_mag_30Rnd,			M,		2500,	0
 		TWP_AK12_mag_30Rnd,			M,		2500,	0
 		TWP_AK12Green_mag_30Rnd,	M,		2500,	0
@@ -404,12 +395,8 @@
 		TWP_HK417_mag_30Rnd,		M,		2500,	0
 		TWP_HK33_mag_30Rnd,			M,		2500,	0
 		TWP_HK416_mag_40Rnd,		M,		2500,	0
-		TWP_HKCarabine_mag_30Rnd,	M,		2500,	0
 		TWP_IA2_mag_30Rnd,				M,		2500,	0
 		TWP_K2C_mag_30Rnd,				M,		2500,	0
-		TWP_AK5C_mag_30Rnd,				M,		2500,	0
-		TWP_AK5CGreen_mag_30Rnd,		M,		2500,	0
-		TWP_AK5CGrey_mag_30Rnd,			M,		2500,	0
 		TWP_LR300_mag_30Rnd,			M,		2500,	0
 		TWP_M4V5_mag_30Rnd,				M,		2500,	0
 		TWP_M16A1_mag_20Rnd,			M,		2500,	0
@@ -427,7 +414,6 @@
 		TWP_ParaSA58_mag_20Rnd,		M,		2500,	0
 		TWP_PindadSS2_mag_30Rnd,	M,		2500,	0
 		TWP_PP19Bison_mag_64Rnd,	M,		2500,	0
-		TWP_PLR16_mag_30Rnd,		M,		2500,	0
 		TWP_PPSH_mag_50Rnd,			M,		2500,	0
 		TWP_PKM_mag_100Rnd,			M,		2500,	0
 		TWP_QBZ03_mag_30Rnd,		M,		2500,	0
@@ -550,7 +536,6 @@
 	
 	<Category> TeddyWeaponPack T3 Suppressors
 		TWP_G3A3_Suppressor,		*,		1500,	0
-		TWP_LR300_Suppressor,		*,		1500,	0
 		TWP_Carabine_Suppressor,	*,		1500,	0
 		TWP_USPPsychodelic_Supressor,		*,		1000,	0
 		TWP_USPChromatic_Supressor,	*,		1000,	0
