@@ -10,8 +10,10 @@
 		TWP_Tokarev,					W,		600,	0	//380ACP
 		TWP_WaltherPPK,					W,		600,	0	// 380ACP
 		TWP_Airbow,						W,		5000,	0	//Arrow
-		TWP_MAB38
-		TWP_MosinNagant_Wrapped
+		TWP_MAB38,					W,		600,	0	// 
+		TWP_MosinNagant_Wrapped,					W,		600,	0	
+		
+		
 	<Category> TeddyWeaponPack T1 Ammo
 		TWP_Ammo_Arrow,				1,		10,		0
 		
@@ -25,7 +27,7 @@
 		TWP_SigSauerP229_mag_13Rnd,		M,		100,	0
 		TWP_SigSauerP250_mag_10Rnd,		M,		100,	0
 		TWP_Tokarev_mag_8Rnd,			M,		100,	0
-		Mag TWP_MAB38_mag_40Rnd
+		Mag TWP_MAB38_mag_40Rnd,					m,		600,	0	//
 		
 	<Category> TeddyWeaponPack T2 Melee
 		TWP_NailedBat,					W,		7500,	0
@@ -43,7 +45,7 @@
 		TWP_Axe,						W,		7500,	0
 		TWP_FirefighterAxe,				W,		7500,	0
 		TWP_SledgeHammer,				W,		7500,	0
-		TWP_PistolSuppressor
+		TWP_PistolSuppressor,					*,		600,	0	//
 
 	<Category> TeddyWeaponPack T2 Grenades
 		TWP_JackintheBox,				1,		2000,	0
@@ -80,7 +82,7 @@
 		TWP_Armsan,					W,		3000,	0	//12ga
 		TWP_ClassicShotgun,			W,		3000,	0	//12ga
 		TWP_Spas15,					W,		1000,	0	//12ga
-		TWP_Browning1928
+
 
 
 	<Category> TeddyWeaponPack T2  rifles
@@ -102,7 +104,8 @@
 		TWP_AEK971,					W,		8000,	0	//545x39
 		TWP_Arisaka,					W,		5000,	0	//762x54
 		TWP_M1Carbine,					W,		5000,	0 	//30Carbine
-		TWP_SKS
+		TWP_Browning1928,					W,		6000,	0	//
+		TWP_SKS,					W,		6000,	0	//
 		
 
 	<Category> TeddyWeaponPack T2  Mags
@@ -129,8 +132,8 @@
 		TWP_AmmoBox_30Carbine_30Rnd,	*,	300,	0
 		TWP_Ammo_30Carbine,			1,		20,		0
 		TWP_ACWR_mag_30Rnd,			M,		2500,	0
-		TWP_Browning1928_mag_20Rnd
-		TWP_SKS_mag_20Rnd
+		TWP_Browning1928_mag_20Rnd,					m,		600,	0	//
+		TWP_SKS_mag_20Rnd,					m,		600,	0	//
 		
 	<Category> TeddyWeaponPack T3 Melee
 		TWP_NailedBat,					W,		7500,	0
@@ -350,12 +353,11 @@
 		TWP_WinchesterRifle,			W,		5000,	0	// 357
 		TWP_McMillanCS5,				W,		5000,	0	// 308.win
 		TWP_Marlin,						W,		5000,	0	// 357
-		TWP_FNFAL
-		TWP_MK14
-		TWP_MK14Sand
-		FNF2000Beige
-		TWP_Dragunov
-		TWP_Tac21
+		TWP_MK14,					W,		6000,	0	//
+		TWP_MK14Sand,					W,		6000,	0	//
+		FNF2000Beige,					W,		6000,	0	//
+		TWP_Dragunov,					W,		6000,	0	//
+		TWP_Tac21,					W,		6000,	0	//
 		
 	<Category> TeddyWeaponPack T3 Mags
 		TWP_R700_mag_10Rnd,				M,		2000,	0
@@ -504,15 +506,15 @@
 		TWP_Dragunov_mag_10Rnd,			M,		2000,	0
 		TWP_SVT38_mag_10Rnd,			M,		2000,	0	
 		TWP_AA12Black_mag_32Rnd,	M,		1000,	0
-		Mag_AK74_30Rnd
-		TWP_AK107_mag_30Rnd
-		TWP_AK107Camouflage_mag_30Rnd
-		TWP_AK105_mag_30Rnd
-		TWP_MK14_mag_20Rnd
-		STANAGCoupled_30Rnd
-		Mag_STANAG_30Rnd
-		TWP_Dragunov_mag_8Rnd
-		TWP_Tac21_mag_8Rnd
+		Mag_AK74_30Rnd,					M,		600,	0	//
+		TWP_AK107_mag_30Rnd,					M,		600,	0				
+		TWP_AK107Camouflage_mag_30Rnd,					M,		600,	0
+		TWP_AK105_mag_30Rnd,					M,		600,	0	//
+		TWP_MK14_mag_20Rnd,					M,		600,	0	//
+		STANAGCoupled_30Rnd,					M,		600,	0	//
+		Mag_STANAG_30Rnd,					M,		600,	0	//
+		TWP_Dragunov_mag_8Rnd,					M,		600,	0	//
+		TWP_Tac21_mag_8Rnd,					M,		600,	0	//
 	
 	<Category> TeddyWeaponPack T3 Bayonets
 		TWP_M9A1_Bayonet,			*,		1500,	0
@@ -589,15 +591,15 @@
 		TWP_OldRifle_Optic,			*,		2000,	0
 		TWP_Optic_G3A3,				*,		2000,	0
 		TWP_M16A4_handle,			*,		2000,	0
-		TWP_OldRifle_Optic2
-		TWP_Optic_Aimdot
+		TWP_OldRifle_Optic2,					*,		600,	0	//
+		TWP_Optic_Aimdot,					*,		600,	0	//
 	
 	
 	<Category> TeddyWeaponPack T3 Attachments
 		TWP_Sling,					*,		1000,	0
 		TWP_MarlinHolster,			*,		1000,	0
 		TWP_SRFrame,					*,		2000,	0
-		TWP_Optic_AX50
+		TWP_Optic_AX50,					*,		600,	0	//
 	
 	<Category> TeddyWeaponPack BMT Mags
 		TWP_M200_mag_7Rnd,				M,		2000,	0
@@ -606,11 +608,11 @@
 		TWP_VSSK_mag_5Rnd,				M,		2000,	0
 		TWP_Beowulf_mag_10Rnd,			M,		2000,	0
 		TWP_Ash12_mag_10Rnd,		M,		2500,	0
-		TWP_PKP_mag_200Rnd
-		TWP_AX50_mag_10Rnd
-		TWP_M107_mag_15Rnd
-		TWP_M200Sand_mag_7Rnd
-		TWP_T5000_mag_10Rnd
+		TWP_PKP_mag_200Rnd,					M,		600,	0	//
+		TWP_AX50_mag_10Rnd,					M,		600,	0	//
+		TWP_M107_mag_15Rnd,					M,		600,	0	//
+		TWP_M200Sand_mag_7Rnd,					M,		600,	0	//
+		TWP_T5000_mag_10Rnd,					M,		600,	0	//
 		
 	<Category> TeddyWeaponPack BMT
 		TWP_M200,						W,		5000,	0	//408 Chey
@@ -622,11 +624,11 @@
 		TWP_Ash12,					    W,		8000,	0	//50BMG
 		TWP_Beowulf,					W,		5000,	0	//50BMG
 		TWP_Ash12,					W,		8000,	0	//50BMG
-		TWP_PKP
-		TWP_AX50
-		TWP_M107
-		TWP_M200Sand
-		TWP_T5000
+		TWP_PKP,					W,		6000,	0	//
+		TWP_AX50,					W,		90000,	0	//
+		TWP_M107,					W,		6000,	0	//
+		TWP_M200Sand,					W,		6000,	0	//
+		TWP_T5000,					W,		6000,	0	//
 		
 	<Category> TeddyWeaponPack  Mission guns 
 	
@@ -712,7 +714,7 @@
 		TWP_SST30Halloween,				W,		2000,	0	// 9x19
 		TWP_SST30Silenced,				W,		2000,	0	// 9x19
 		TWP_UMPPrimalSaber,				W,		2500,	0	// 45ACP
-		TWP_AK107Camouflage
+		TWP_AK107Camouflage,				W,		2500,	0	// 45ACP
 		
 		
 	<Category> TeddyWeaponPack  Mission mags
@@ -763,7 +765,7 @@
 		TWP_GhostBackpack_Vampire,	*,		130,	0
 		TWP_GhostBackpack_Scared,	*,		130,	0
 		TWP_MiniReaper,				*,		130,	0
-		TWP_Crow
+		TWP_Crow,				*,		2500,	0	// 45ACP
 		
 	<Category> TeddyWeaponPack:Covid 
 		TWP_CharminBox,				*,		2000,	0
@@ -807,17 +809,17 @@
 		TWP_Cosmetic_Trashcan,		*,		1000,	0
 		TWP_Cosmetic_Turbo,			*,		1000,	0
 		TWP_Cosmetic_Zombiehead,	*,		1000,	0
-		TWP_Cosmetic_Knife
+		TWP_Cosmetic_Knife,	*,		1000,	0
 		TWP_Cosmetic_Raven
-		TWP_Cosmetic_HeartPizza
-		TWP_Cosmetic_GoldenGloves
-		TWP_Cosmetic_Fossil
-		TWP_Cosmetic_HandGun
-		TWP_Cosmetic_DogTag
-		TWP_Cosmetic_CowBoyBoot
-		TWP_Cosmetic_BurgerTown
-		TWP_Cosmetic_BentoBox
-		TWP_Cosmetic_BearTrap
-		TWP_Cosmetic_Bacon
-		TWP_Cosmetic_Anchor
-		TWP_Cosmetic_50Caliber
+		TWP_Cosmetic_HeartPizza,	*,		1000,	0
+		TWP_Cosmetic_GoldenGloves,	*,		1000,	0
+		TWP_Cosmetic_Fossil,	*,		1000,	0
+		TWP_Cosmetic_HandGun,	*,		1000,	0
+		TWP_Cosmetic_DogTag,	*,		1000,	0
+		TWP_Cosmetic_CowBoyBoot,	*,		1000,	0
+		TWP_Cosmetic_BurgerTown,	*,		1000,	0
+		TWP_Cosmetic_BentoBox,	*,		1000,	0
+		TWP_Cosmetic_BearTrap,	*,		1000,	0
+		TWP_Cosmetic_Bacon,	*,		1000,	0
+		TWP_Cosmetic_Anchor,	*,		1000,	0
+		TWP_Cosmetic_50Caliber,	*,		1000,	0
