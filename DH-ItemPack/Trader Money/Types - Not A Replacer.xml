@@ -1,0 +1,146 @@
+// --------------- New Zealand Dollar --------------------------
+
+<type name="DH_NZ_5">
+  <nominal>20</nominal>
+  <lifetime>7200</lifetime>
+  <restock>0</restock>
+  <min>10</min>
+  <quantmin>1</quantmin>
+  <quantmax>2</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="tools"/>
+  <tag name="shelves"/>
+  <usage name="Town"/>
+  <usage name="Village"/>
+ </type>
+<type name="DH_NZ_10">
+  <nominal>20</nominal>
+  <lifetime>7200</lifetime>
+  <restock>0</restock>
+  <min>10</min>
+  <quantmin>1</quantmin>
+  <quantmax>2</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="tools"/>
+  <tag name="shelves"/>
+  <usage name="Town"/>
+  <usage name="Village"/>
+ </type>
+<type name="DH_NZ_20">
+  <nominal>20</nominal>
+  <lifetime>7200</lifetime>
+  <restock>0</restock>
+  <min>10</min>
+  <quantmin>1</quantmin>
+  <quantmax>2</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="tools"/>
+  <tag name="shelves"/>
+  <usage name="Town"/>
+  <usage name="Village"/>
+ </type>
+<type name="DH_NZ_50">
+  <nominal>20</nominal>
+  <lifetime>7200</lifetime>
+  <restock>0</restock>
+  <min>10</min>
+  <quantmin>1</quantmin>
+  <quantmax>2</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="tools"/>
+  <tag name="shelves"/>
+  <usage name="Town"/>
+  <usage name="Village"/>
+ </type>
+<type name="DH_NZ_100">
+  <nominal>20</nominal>
+  <lifetime>7200</lifetime>
+  <restock>0</restock>
+  <min>10</min>
+  <quantmin>1</quantmin>
+  <quantmax>2</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="tools"/>
+  <tag name="shelves"/>
+  <usage name="Town"/>
+  <usage name="Village"/>
+ </type>
+ 
+// --------------- Great British Pound --------------------------
+
+
+<type name="DH_UK_5">
+  <nominal>20</nominal>
+  <lifetime>7200</lifetime>
+  <restock>0</restock>
+  <min>10</min>
+  <quantmin>1</quantmin>
+  <quantmax>2</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="tools"/>
+  <tag name="shelves"/>
+  <usage name="Town"/>
+  <usage name="Village"/>
+ </type>
+<type name="DH_UK_10">
+  <nominal>20</nominal>
+  <lifetime>7200</lifetime>
+  <restock>0</restock>
+  <min>10</min>
+  <quantmin>1</quantmin>
+  <quantmax>2</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="tools"/>
+  <tag name="shelves"/>
+  <usage name="Town"/>
+  <usage name="Village"/>
+ </type>
+<type name="DH_UK_20">
+  <nominal>20</nominal>
+  <lifetime>7200</lifetime>
+  <restock>0</restock>
+  <min>10</min>
+  <quantmin>1</quantmin>
+  <quantmax>2</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="tools"/>
+  <tag name="shelves"/>
+  <usage name="Town"/>
+  <usage name="Village"/>
+ </type>
+<type name="DH_UK_50">
+  <nominal>20</nominal>
+  <lifetime>7200</lifetime>
+  <restock>0</restock>
+  <min>10</min>
+  <quantmin>1</quantmin>
+  <quantmax>2</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="tools"/>
+  <tag name="shelves"/>
+  <usage name="Town"/>
+  <usage name="Village"/>
+ </type>
+<type name="DH_UK_100">
+  <nominal>20</nominal>
+  <lifetime>7200</lifetime>
+  <restock>0</restock>
+  <min>10</min>
+  <quantmin>1</quantmin>
+  <quantmax>2</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="tools"/>
+  <tag name="shelves"/>
+  <usage name="Town"/>
+  <usage name="Village"/>
+ </type>

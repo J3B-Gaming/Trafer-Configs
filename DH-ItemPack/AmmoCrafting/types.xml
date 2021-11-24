@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="DH_Cases_Rifle">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Cases_SmlCali">
+        <nominal>50</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>25</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Cases_AR_Rifle">
+        <nominal>40</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>20</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Cases_12g">
+        <nominal>60</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>30</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_FilledCases_Rifle">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_FilledCases_AR_Rifle">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_FilledCases_SmlCali">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_FilledCases_12g">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Unpressed_308">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Unpressed_338L">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Unpressed_556">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Unpressed_45ACP">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Unpressed_545">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Unpressed_762">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Unpressed_762_54MR">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Unpressed_300BLK">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Unpressed_919">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Unpressed_Buck">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Tips_308">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>17</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Tips_762_54MR">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>17</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Tips_545">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>17</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Tips_762">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>17</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Tips_45ACP">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>17</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+
+    <type name="DH_Tips_338L">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>17</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Tips_556">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>17</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Tips_300BLK">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>17</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Tips_919">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>17</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Tips_Buck">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>17</min>
+        <quantmin>10</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Gunpowder">
+        <nominal>50</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>20</min>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="farm"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="military"/>
+        <usage name="police"/>
+        <usage name="town"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="AmmoTable">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="1" deloot="0" />
+    </type>
+    <type name="AmmoTable_Kit">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="coast"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="medic"/>
+        <usage name="military"/>
+        <usage name="office"/>
+        <usage name="town"/>
+        <usage name="village"/>
+        <usage name="farm"/>
+    </type>
+    <type name="Incomplete_AmmoTable_Kit">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="coast"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="medic"/>
+        <usage name="military"/>
+        <usage name="office"/>
+        <usage name="town"/>
+        <usage name="village"/>
+        <usage name="farm"/>
+    </type>
+    <type name="AmmoPress">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="coast"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="medic"/>
+        <usage name="military"/>
+        <usage name="office"/>
+        <usage name="town"/>
+        <usage name="village"/>
+        <usage name="farm"/>
+    </type>
+</types>

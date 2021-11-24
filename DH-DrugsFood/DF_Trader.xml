@@ -1,0 +1,78 @@
+	<Category> DH Food & Drink
+		DH_CanteenRed,			*,	10000,	5000
+		DHCanteen_Aqua,			*,	10000,	5000
+		DHCanteen_Black,			*,	10000,	5000
+		DHCanteen_BlueW,			*,	10000,	5000
+		DHCanteen_MudOak,			*,	10000,	5000
+		DHCanteen_Pink,			*,	10000,	5000
+		DHCanteen_WhiteG,			*,	10000,	5000
+		DHCanteen_Woodland,			*,	10000,	5000
+		DHCanteen_Pat,			*,	10000,	5000
+		DHCanteen_Pat1,			*,	10000,	5000 
+		DH_sodaAJam,			*,	10000,	5000
+		DH_sodaGAJam,			*,	10000,	5000
+		DH_sodaGMJam,			*,	10000,	5000
+		DH_sodaPJam,			*,	10000,	5000
+		DH_FoodCan,			*,	10000,	5000
+		DH_HotDag,			*,	10000,	5000
+		DH_BigMik,			*,	10000,	5000
+		
+	<Category> DH Edibles	
+	
+		DH_EptTinCan,			*,	5000,	2500
+		DH_FoodCan_BC,			*,	17500,	5000
+		DH_FoodCan_BD,			*,	17500,	5000
+		DH_FoodCan_CP,			*,	17500,	5000
+		DH_FoodCan_OG,			*,	17500,	5000
+		DH_FoodCan_SD,			*,	17500,	5000
+		
+		
+	<Category> DH Medical	
+	
+	
+		DH_Stim,			*,	-1,	5000
+		DH_Super_Stim,			*,	-1,	5000
+		DH_Extreme_Stim,			*,	-1,	5000
+		DH_Unknown,			*,	5000,	5000
+		
+		
+		
+	<Category> DH Drugs
+	
+	
+	
+		DHD_SourDieselSeeds,			*,	0000,	50
+		DHD_BlueCSeeds,			*,	1000,	50
+		DHD_BlueDreamSeeds,			*,	1000,	50
+		DHD_CherryPieSeeds,			*,	1000,	50
+		DHD_OGKushSeeds,			*,	1000,	50	
+			
+		DHD_SPack_BlueC,			*,	10000,	5000
+		DHD_SPack_CP,			*,	10000,	5000
+		DHD_SPack_BD,			*,	10000,	5000
+		DHD_SPack_OG,			*,	10000,	5000
+		DHD_SPack_SD,			*,	10000,	5000
+				
+		DHD_BlueCheese,			*,	-1,	5000
+		DHD_BlueDream,			*,	-1,	5000
+		DHD_CherryPie,			*,	-1,	5000
+		DHD_OGKush,			*,	-1,	5000
+		DHD_SourDiesel,			*,	-1,	5000
+
+		DHD_Baggie_BC,			*,	-1,	5000
+		DHD_Baggie_BD,			*,	-1,	5000
+		DHD_Baggie_CP,			*,	-1,	5000
+		DHD_Baggie_OG,			*,	-1,	5000
+		DHD_Baggie_SD,			*,	-1,	5000
+
+		DHD_Brick_BC,			*,	-1,	5000
+		DHD_Brick_BD,			*,	-1,	5000
+		DHD_Brick_CP,			*,	-1,	5000
+		DHD_Brick_OG,			*,	-1,	5000
+		DHD_Brick_SD,			*,	-1,	5000
+
+		DHD_Stack_BC,			*,	-1,	5000
+		DHD_Stack_BD,			*,	-1,	5000
+		DHD_Stack_SD,			*,	-1,	5000
+		DHD_Stack_OG,			*,	-1,	5000
+		DHD_Stack_CP,			*,	-1,	5000

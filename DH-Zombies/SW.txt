@@ -1,0 +1,65 @@
+[h1][b]Devil's House Creations Zombies And Animals Pack[/b][/h1] v0.3
+
+
+
+This is my first mod in this category, so hopefully people will enjoy it
+More items will come to this mod as there made  
+Please feel free to leave a comment/discussion on this i can work on or fix
+Welcome to any modding help/advice
+
+   
+[b]Mod Includes Keys, and all files you will need in XML folder
+Files will need to edited to your server.[/b]
+
+[b]Zombies: [/b]
+
+ZmbM_DH_EZ - Easy Zombies 
+ZmbM_DH_Med - Little Harder
+ZmbM_DH_Hard - Very Hard
+ZmbM_DH_Ext - How Many Mags ?
+ZmbM_DH_Insane - This is impossiable :D
+
+ZmbM_DH_Nope  - Do you Dare to Try this unfinished Project ?
+ZmbM_DH_Nope1  - Do you Dare to Try this unfinished Project ?
+
+
+[b]Animals - All Have Custom Pelts [/b]
+
+Animal_DH_ToxicWolf - Toxic Green
+Animal_DH_RabidWolf - Blue
+Animal_DH_DevilWolf - Black+Red
+
+You may run this on monetized servers as long no item from this pack is monetized.
+
+
+3D Model's From CgTrader 
+File's created by King Skyline @ Skyline Gaming. For more Files/Help  visit us at [url=https://discord.gg/6wzPXYmT74]Discord[/url]
+Devil's House Creations
+Thank you
+
+This item is not authorized for posting on Steam, except under the Steam account King Skyline,
+Repack/reupload is not allowed!.DMCA Will Be Filled
+Copyright - King Skyline 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Animal_DH_ToxicWolf
+Animal_DH_RabidWolf
+Animal_DH_DevilWolf

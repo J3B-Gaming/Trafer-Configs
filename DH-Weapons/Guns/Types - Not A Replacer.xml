@@ -1,0 +1,3899 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+
+    <type name="DH_AmmoBox_300AACTracer">
+        <nominal>7</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="DH_AmmoBox_300AAC">
+        <nominal>20</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	
+    <type name="DH_Ammo_300AAC">
+        <nominal>50</nominal>
+        <lifetime>7400</lifetime>
+        <restock>0</restock>
+        <min>30</min>
+        <quantmin>10</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="DH_Ammo_300AACTracer">
+        <nominal>20</nominal>
+        <lifetime>7800</lifetime>
+        <restock>180</restock>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="DH_AmmoBox_338Tracer">
+        <nominal>7</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="DH_AmmoBox_338">
+        <nominal>20</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="DH_AmmoBox_5_7_x28">
+        <nominal>20</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	
+    <type name="DH_Ammo_5_7x28">
+        <nominal>50</nominal>
+        <lifetime>7400</lifetime>
+        <restock>0</restock>
+        <min>30</min>
+        <quantmin>10</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="DH_Ammo_338">
+        <nominal>50</nominal>
+        <lifetime>7400</lifetime>
+        <restock>0</restock>
+        <min>30</min>
+        <quantmin>10</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="DH_Ammo_338Tracer">
+        <nominal>20</nominal>
+        <lifetime>7800</lifetime>
+        <restock>180</restock>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="DH_L96A1">
+        <nominal>5</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_L96A1_RedCamo">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_L96A1_338">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_L96A1_338_RedCamo">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_HoneyBadger_556">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_HoneyBadger_556_RC">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+	
+    <type name="DH_HoneyBadger_AAC">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_HoneyBadger_AAC_RC">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_HoneyBadger_Mag30Rnd">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_HoneyBadger_Mag60Rnd">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_HoneyBadger_Mag30Rnd_RC">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_HoneyBadger_Mag60Rnd_RC">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// Groza
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DH_Groza_9">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Groza_762">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Groza_9_GreenSkull">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Groza_762_GreenSkull">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_L96A1_Mag5Rnd">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_L96A1_Mag10Rnd">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_Mag_P90_50Rnd">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_L96A1_Mag5_RedCamo">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_L96A1_Mag10_RedCamo">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Mag_P90_50_RedCamo">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Groza_Mag30">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_Groza_Mag30_GSkull">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Groza_Mag20">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_Groza_Mag20_GSkull">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>10</quantmin>
+        <quantmax>90</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ 1911
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DH_1911_Red">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_1911_BG">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_1911_Blue">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_1911_GH">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_1911_Pat">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ MP5
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DH_MP5K_DGreen">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_MP5K_Black">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_MP5K_Multi">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_MP5K_Wood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ Saiga
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DHSaiga_BDU">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSaiga_DirtWood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSaiga_Grass">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSaiga_GreenCamo">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSaiga_Oak">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ CZ527
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DHCZ527_Mil1">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHCZ527_Mil2">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHCZ527_Mil3">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHCZ527_Mil4">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHCZ527_Mil5">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHCZ527_Mil6">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHCZ527_Mil7">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHCZ527_Mil8">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHCZ527_Mil9">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ SKS
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DHSKS">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSKS_Mil2">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSKS_Mil3">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSKS_Mil4">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSKS_Mil5">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSKS_Mil6">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSKS_Mil7">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSKS_Mil8">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHSKS_Mil9">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ M4A1
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DHM4A1_BO3">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHM4A1_Dramascus">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHM4A1_GreenCircles">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHM4A1_GreenDramascus">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DHM4A1_QueenBlue">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <value name="tier4"/>
+    </type>
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ Suppressor
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DH_UniversalSuppressor">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_Groza_Suppressor">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_BDUWoodland">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_BlackCamo">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_BlueSkullsL">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_BO3DarkMatter">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_DirtWood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_Dramascus">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_GoldHoneycomb">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_GrassCamo">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_GreenCircles">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_GreenDarkCamo">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_GreenGreenCamo">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_MossyOak">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_Multi">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_Pat1">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_RedCamo">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_mil1">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_mil2">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_mil3">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_mil4">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_mil5">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_mil6">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_mil7">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_mil8">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_UniSupp_mil9">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ Mags
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="Mag_DH1911_Red">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DH1911_BG">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DH1911_Blue">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DH1911_GH">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DH1911_Pat">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ ---------
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="Mag_DHMP5_15DGreen">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHMP5_15Black">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHMP5_15Multi">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHMP5_15Wood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHMP5_30DGreen">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHMP5_30Black">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHMP5_30Multi">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHMP5_30Wood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ ---------
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="Mag_DHSaiga_5BDU">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_5DirtyWood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_5Grass">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_5GreenCamo">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_5oak">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_8BDU">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_8Grass">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_8GreenCamo">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_8oak">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_DrumBDU">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_DrumDirtWood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_DrumGrass">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_DrumGreenCamo">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHSaiga_DrumOak">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ ---------
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="Mag_DHCZ527_5Mil1">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHCZ527_5Mil2">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHCZ527_5Mil3">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHCZ527_5Mil4">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHCZ527_5Mil5">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHCZ527_5Mil6">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHCZ527_5Mil7">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHCZ527_5Mil8">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="Mag_DHCZ527_5Mil9">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ ---------
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DH_MP5k_Bttstck_Multi">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_MP5_PHndgrd_Multi">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_MP5_RHndgrd_Multi">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_MP5k_Bttstck_Black">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_MP5_PHndgrd_Black">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_MP5_RHndgrd_Black">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_MP5k_Bttstck_DGreen">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_MP5_PHndgrd_DGreen">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_MP5_RHndgrd_DGreen">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_MP5k_Bttstck_Wood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_MP5_PHndgrd_Wood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DH_MP5_RHndgrd_Wood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHMP5_Comp_Multi">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHMP5_Comp_Black">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHMP5_Comp_DGreen">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHMP5_Comp_Wood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ ---------
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DHSaiga_Bttstck_BDU">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHSaiga_Bttstck_DirtWood">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHSaiga_Bttstck_Grass">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHSaiga_Bttstck_GreenCamo">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHSaiga_Bttstck_Oak">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ ---------
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DHM4_OEBttstckBO3">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_OEBttstckDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_OEBttstckGC">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_OEBttstckGDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_OEBttstckBS">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_MPBttstckBO3">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_MPBttstckDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_MPBttstckGC">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_MPBttstckGDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_MPBttstckBS">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_CQBBttstckBO3">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_CQBBttstckDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_CQBBttstckGC">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_CQBBttstckGDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_CQBBttstckBS">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_PHndgrdBO3">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_PHndgrdDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_PHndgrdGC">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_PHndgrdGDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_PHndgrdBS">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_RISHndgrdBO3">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_RISHndgrdDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_RISHndgrdGC">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_RISHndgrdGDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_RISHndgrdBS">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_MPHndgrdBO3">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_MPHndgrdDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_MPHndgrdGC">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_MPHndgrdGDM">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+    <type name="DHM4_MPHndgrdBS">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+    </type>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// \\ Sprays
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DH_Spray_RedCamo">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_BlackGold">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_BlueSkulls">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_GoldHoneycomb">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Pat1">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_BO3DarkMatter">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Dramascus">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_GreenCircles">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_GreenDramascus">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_BlueSkullsL">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_GreenDarkCamo">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_BlackCamo">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Multi">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_BDU">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_DirtWood">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_GrassCamo">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_GreenGreenCamo">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_MossyOak">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Mil1">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Mil2">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Mil3">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Mil4">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Mil5">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Mil6">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Mil7">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Mil8">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_Mil9">
+        <nominal>6</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>4</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <value name="tier4"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+    </type>
+    <type name="DH_Spray_RedCarbon">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="coast"/>
+        <usage name="farm"/>
+        <usage name="firefighter"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="medic"/>
+        <usage name="office"/>
+        <usage name="police"/>
+        <usage name="prison"/>
+        <usage name="school"/>
+        <usage name="town"/>
+        <usage name="village"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_Spray_Skulls">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="coast"/>
+        <usage name="farm"/>
+        <usage name="firefighter"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="medic"/>
+        <usage name="office"/>
+        <usage name="police"/>
+        <usage name="prison"/>
+        <usage name="school"/>
+        <usage name="town"/>
+        <usage name="village"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_UpgradeKit_Groza9">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="coast"/>
+        <usage name="farm"/>
+        <usage name="firefighter"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="medic"/>
+        <usage name="office"/>
+        <usage name="police"/>
+        <usage name="prison"/>
+        <usage name="school"/>
+        <usage name="town"/>
+        <usage name="village"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_UpgradeKit_Groza762">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="coast"/>
+        <usage name="farm"/>
+        <usage name="firefighter"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="medic"/>
+        <usage name="office"/>
+        <usage name="police"/>
+        <usage name="prison"/>
+        <usage name="school"/>
+        <usage name="town"/>
+        <usage name="village"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_UpgradeKit_Honey556">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="coast"/>
+        <usage name="farm"/>
+        <usage name="firefighter"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="medic"/>
+        <usage name="office"/>
+        <usage name="police"/>
+        <usage name="prison"/>
+        <usage name="school"/>
+        <usage name="town"/>
+        <usage name="village"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_UpgradeKit_HoneyAAC">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="coast"/>
+        <usage name="farm"/>
+        <usage name="firefighter"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="medic"/>
+        <usage name="office"/>
+        <usage name="police"/>
+        <usage name="prison"/>
+        <usage name="school"/>
+        <usage name="town"/>
+        <usage name="village"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+    <type name="DH_UpgradeKit_L96A1">
+        <nominal>25</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>15</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="coast"/>
+        <usage name="farm"/>
+        <usage name="firefighter"/>
+        <usage name="hunting"/>
+        <usage name="industrial"/>
+        <usage name="medic"/>
+        <usage name="office"/>
+        <usage name="police"/>
+        <usage name="prison"/>
+        <usage name="school"/>
+        <usage name="town"/>
+        <usage name="village"/>
+        <value name="tier1"/>
+        <value name="tier3"/>
+        <value name="tier2"/>
+        <value name="tier4"/>
+    </type>
+
+</types>

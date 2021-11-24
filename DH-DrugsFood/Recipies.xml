@@ -1,0 +1,19 @@
+Medical
+
+"StartKitIV" + "Epinephrine"  = DH_Stim
+"SalineBagIV" + "DH_Stim"  = DH_Super_Stim
+"BloodBagFullIV" + "DH_Super_Stim"  = DH_Extreme_Stim
+
+
+
+Drug's
+
+
+
+"DHD_Drug" + "Same DHD_Drug"  = Same Drug "DHD_Baggie_"
+
+20 x "DHD_Baggie_" + "Epoxy Putty"  = Same Drug "DHD_Brick_"
+
+3 x "DHD_Brick_" + "Epoxy Putty"  = Same Drug "DHD_Stack_"
+
+3x "DHD_Baggie_" + "DH_EptTinCan"  = Same Drug "DH_FoodCan_"

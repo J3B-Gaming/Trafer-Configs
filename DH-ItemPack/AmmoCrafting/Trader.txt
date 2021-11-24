@@ -1,0 +1,45 @@
+<Category> DH Ammo Cases
+
+    DH_Gunpowder,			*,	10000,	5000
+
+    DH_Cases_Rifle,			*,	10000,	5000
+    DH_Cases_SmlCali,			*,	10000,	5000
+    DH_Cases_AR_Rifle,			*,	10000,	5000
+    DH_Cases_12g,			*,	10000,	5000
+
+    DH_FilledCases_Rifle,			*,	10000,	5000
+    DH_FilledCases_AR_Rifle,			*,	10000,	5000
+    DH_FilledCases_SmlCali,			*,	10000,	5000
+    DH_FilledCases_12g,			*,	10000,	5000
+
+<Category> DH Ammo Unpressed
+    DH_Unpressed_308,			*,	10000,	5000
+    DH_Unpressed_556,			*,	10000,	5000
+    DH_Unpressed_919,			*,	10000,	5000
+    DH_Unpressed_Buck,			*,	10000,	5000
+	DH_Unpressed_45ACP,			*,	10000,	5000
+	DH_Unpressed_545,			*,	10000,	5000
+	DH_Unpressed_762,			*,	10000,	5000
+	DH_Unpressed_762_54MR,			*,	10000,	5000
+
+<Category> DH Ammo Tips
+    DH_Tips_308,			*,	10000,	5000
+    DH_Tips_556,			*,	10000,	5000
+    DH_Tips_919,			*,	10000,	5000
+    DH_Tips_Buck,			*,	10000,	5000
+	DH_Tips_45ACP,			*,	10000,	5000
+	DH_Tips_762,			*,	10000,	5000
+	DH_Tips_545,			*,	10000,	5000
+	DH_Tips_762_54MR,			*,	10000,	5000
+
+<Category> DH Ammo Table	
+    AmmoTable_Kit,			*,	-1,	5000
+    Incomplete_AmmoTable_Kit,			*,	10000,	5000
+	AmmoPress,			*,	10000,	5000
+
+
+// Only Works In DH AIO Pack
+    DH_Unpressed_300BLK,			*,	10000,	5000
+    DH_Unpressed_338L,			*,	10000,	5000
+    DH_Tips_338L,			*,	10000,	5000
+    DH_Tips_300BLK,			*,	10000,	5000

@@ -1,0 +1,17 @@
+
+	
+<type name="ZmbM_DH_EZ">
+        <cargo preset="Mongrolsloot" />
+    </type>
+    <type name="ZmbM_DH_Med">
+        <cargo preset="Mongrolsloot" />
+    </type>
+    <type name="ZmbM_DH_Hard">
+        <cargo preset="Mongrolsloot" />
+    </type>
+    <type name="ZmbM_DH_Ext">
+        <cargo preset="Mongrolsloot" />
+    </type>
+    <type name="ZmbM_DH_Insane">
+        <cargo preset="Mongrolsloot" />
+    </type>

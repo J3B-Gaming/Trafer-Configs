@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+
+<!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    //////////// Drugs
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <type name="DHD_SPack_BlueC">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_SPack_CP">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_SPack_BD">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_SPack_OG">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_SPack_SD">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_SourDieselSeeds">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_BlueCSeeds">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_BlueDreamSeeds">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_CherryPieSeeds">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_OGKushSeeds">
+        <nominal>15</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>10</min>
+        <quantmin>10</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_BlueCheese">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_BlueDream">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_CherryPie">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_OGKush">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_SourDiesel">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Baggie_BC">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Baggie_BD">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Baggie_CP">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Baggie_OG">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Baggie_SD">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Brick_BC">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Brick_BD">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Brick_CP">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Brick_OG">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Brick_SD">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Stack_BC">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Stack_BD">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Stack_SD">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Stack_OG">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+    <type name="DHD_Stack_CP">
+        <nominal>0</nominal>
+        <lifetime>14888</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="food"/>
+        <tag name="floor"/>
+        <usage name="military"/>
+        <usage name="prison"/>
+        <usage name="police"/>
+        <usage name="village"/>
+        <usage name="hunting"/>
+        <usage name="farm"/>
+        <usage name="office"/>
+        <usage name="school"/>
+    </type>
+
+</types>

@@ -1,0 +1,81 @@
+	<Category> DH Item Pack
+	
+	
+		DHPowerline9v,			*,	500,	100
+		DHPowerline9vPlus,			*,	750,	200
+		DHPowerlineSuper,			*,	1000,	350
+		land_RCube_S - Solved,			*,	10000,	5000
+		land_RCube_M  - Mixed,			*,	10000,	5000
+		land_Bed1,			*,	10000,	5000
+		
+	<Category> DH Base Items
+
+		land_MBox1,			*,	10000,	5000
+		land_MilBox1,			*,	10000,	5000
+		land_MilBox2,			*,	10000,	5000
+ 	    LockerDouble_Kit,			*,	20000,	5000
+  	    LockerSingle_Kit,			*,	20000,	5000
+  	    Wardrobe_Kit,			*,	20000,	5000
+  	    WeaponTable_Kit,			*,	20000,	5000
+  	    MedicalTable_Kit,			*,	20000,	5000
+	
+
+
+	<Category> DH AmongUs
+		land_DHAU_RedSmall,			*,	10000,	5000
+		land_DHAU_RedXL,			*,	10000,	5000
+		land_DHAU_RedLS,			*,	10000,	5000
+		land_DHAU_GreenSmall,			*,	10000,	5000
+		land_DHAU_GreenXL,		*,	10000,	5000
+		land_DHAU_GreenLS,			*,	10000,	5000
+		land_DHAU_DBlueSmall,			*,	10000,	5000
+		land_DHAU_DBlueXL,			*,	10000,	5000
+		land_DHAU_DBlueLS,		*,	10000,	5000
+		land_DHAU_YellowSmall,		*,	10000,	5000
+		land_DHAU_YellowXL,		*,	10000,	5000
+		land_DHAU_YellowLS,			*,	10000,	5000
+
+
+	<Category> DH Flags
+
+		DHFlag_UnitedKingdom,			*,	10000,	5000 
+		DHFlag_Ireland,			*,	10000,	5000 
+		DHFlag_Skyline,			*,	10000,	5000 
+		DHFlag_Russia,			*,	10000,	5000 
+		DHFlag_Lithuania,			*,	10000,	5000 
+		DHFlag_Hungry,			*,	10000,	5000 
+		DHFlag_Austra,			*,	10000,	5000 
+		DHFlag_Netherlands,			*,	10000,	5000 
+		DHFlag_Spain,			*,	10000,	5000 
+		DHFlag_Poland,			*,	10000,	5000 
+		DHFlag_Ukraine,			*,	10000,	5000 
+		DHFlag_France,			*,	10000,	5000 
+		DHFlag_Italy,			*,	10000,	5000 
+		DHFlag_Denmark,			*,	10000,	5000 
+		DHFlag_Sweeden,			*,	10000,	5000 
+		DHFlag_Czech,			*,	10000,	5000 
+		DHFlag_USA,			*,	10000,	5000 
+		DHFlag_Canada,			*,	10000,	5000 
+		DHFlag_Germany,			*,	10000,	5000 
+		DHFlag_Australia,			*,	10000,	5000
+
+
+		DHFlag_ColorCani,			*,	10000,	5000 
+		DHFlag_ColorCani1,			*,	10000,	5000 
+		DHFlag_CaniTrip,			*,	10000,	5000 
+		DHFlag_CaniPirate,			*,	10000,	5000
+		DHFlag_Skull,			*,	10000,	5000
+		DHFlag_We,			*,	10000,	5000
+
+
+	
+	<Category> DH Clothes	
+	
+	
+		DH_Band_FFDP,			*,	10000,	5000
+		DH_Band_ACDC,			*,	10000,	5000
+		DH_Band_Slayer,			*,	10000,	5000
+		DH_Band_Slipknot,			*,	10000,	5000
+		DH_Band_Disturbed,			*,	10000,	5000
+		
+

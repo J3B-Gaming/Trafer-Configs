@@ -1,0 +1,300 @@
+<Category> DH Guns
+	
+		DH_1911_Red,			W,	-1,	5000
+		DH_1911_BG,			W,	-1,	5000
+		DH_1911_Blue,			W,	-1,	5000
+		DH_1911_GH,			W,	-1,	5000
+		DH_1911_Pat,			W,	-1,	5000
+			
+		DH_MP5K_DGreen,			W,	-1,	5000
+		DH_MP5K_Black,			W,	-1,	5000
+		DH_MP5K_Multi,			W,	-1,	5000
+		DH_MP5K_Wood,			W,	-1,	5000	
+			
+		DHSaiga_BDU,			W,	-1,	5000
+		DHSaiga_DirtWood,			W,	-1,	5000
+		DHSaiga_Grass,			W,	-1,	5000
+		DHSaiga_GreenCamo,			W,	-1,	5000
+		DHSaiga_Oak,			W,	-1,	5000	
+
+		DHM4A1_BO3,			W,	-1,	5000
+		DHM4A1_Dramascus,			W,	-1,	5000
+		DHM4A1_GreenCircles,			W,	-1,	5000
+		DHM4A1_GreenDramascus,			W,	-1,	5000
+		DHM4A1_QueenBlue
+		
+		DH_HoneyBadger_556,			W,	-1,	5000
+		DH_HoneyBadger_556_RC,			W,	-1,	5000
+		DH_HoneyBadger_AAC,			W,	-1,	5000
+		DH_HoneyBadger_AAC_RC,			W,	-1,	5000
+		
+		DH_Groza_9,			W,	-1,	5000
+		DH_Groza_762,			W,	-1,	5000
+		DH_Groza_9_GreenSkull,			W,	-1,	5000
+		DH_Groza_762_GreenSkull,			W,	-1,	5000
+		
+		DH_P90,			W,	-1,	5000
+		DH_P90_RedCamo,			W,	-1,	5000
+
+		DH_L96A1,			W,	-1,	5000
+		DH_L96A1_RedCamo,			W,	-1,	5000
+		DH_L96A1_338,			W,	-1,	5000
+		DH_L96A1_338_RedCamo,			W,	-1,	5000
+			
+		DHCZ527_Mil1,			W,	-1,	5000
+		DHCZ527_Mil2,			W,	-1,	5000
+		DHCZ527_Mil3,			W,	-1,	5000
+		DHCZ527_Mil4,			W,	-1,	5000
+		DHCZ527_Mil5,			W,	-1,	5000
+		DHCZ527_Mil6,			W,	-1,	5000
+		DHCZ527_Mil7,			W,	-1,	5000
+		DHCZ527_Mil8,			W,	-1,	5000
+		DHCZ527_Mil9,			W,	-1,	5000
+			
+		DHSKS,			W,	-1,	5000
+		DHSKS_Mil2,			W,	-1,	5000
+		DHSKS_Mil3,			W,	-1,	5000
+		DHSKS_Mil4,			W,	-1,	5000
+		DHSKS_Mil5,			W,	-1,	5000
+		DHSKS_Mil6,			W,	-1,	5000
+		DHSKS_Mil7,			W,	-1,	5000
+		DHSKS_Mil8,			W,	-1,	5000
+		DHSKS_Mil9,			W,	-1,	5000	
+	
+<Category> DH Attachments	
+	
+	
+	
+		DH_MP5k_Bttstck_Multi,			*,	-1,	5000 
+		DH_MP5_PHndgrd_Multi,			*,	-1,	5000
+		DH_MP5_RHndgrd_Multi,			*,	-1,	5000
+		 
+		DH_MP5k_Bttstck_Black,			*,	-1,	5000 
+		DH_MP5_PHndgrd_Black,			*,	-1,	5000 
+		DH_MP5_RHndgrd_Black,			*,	-1,	5000 
+
+		DH_MP5k_Bttstck_DGreen,			*,	-1,	5000 
+		DH_MP5_PHndgrd_DGreen,			*,	-1,	5000 
+		DH_MP5_RHndgrd_DGreen,			*,	-1,	5000 
+
+		DH_MP5k_Bttstck_Wood,			*,	-1,	5000 
+		DH_MP5_PHndgrd_Wood,			*,	-1,	5000 
+		DH_MP5_RHndgrd_Wood,			*,	-1,	5000
+
+		DHMP5_Comp_Multi,			*,	-1,	5000  
+		DHMP5_Comp_Black,			*,	-1,	5000  
+		DHMP5_Comp_DGreen,			*,	-1,	5000  
+		DHMP5_Comp_Wood,			*,	-1,	5000	
+						
+		DHSaiga_Bttstck_BDU,			*,	-1,	5000  
+		DHSaiga_Bttstck_DirtWood,			*,	-1,	5000  
+		DHSaiga_Bttstck_Grass,			*,	-1,	5000  
+		DHSaiga_Bttstck_GreenCamo,			*,	-1,	5000  
+		DHSaiga_Bttstck_Oak,			*,	-1,	5000	
+						
+		DHM4_OEBttstckBO3,			*,	-1,	5000
+		DHM4_OEBttstckDM,			*,	-1,	5000
+		DHM4_OEBttstckGC,			*,	-1,	5000
+		DHM4_OEBttstckGDM,			*,	-1,	5000
+		DHM4_OEBttstckBS,			*,	-1,	5000
+		DHM4_MPBttstckBO3,			*,	-1,	5000
+		DHM4_MPBttstckDM,			*,	-1,	5000
+		DHM4_MPBttstckGC,			*,	-1,	5000
+		DHM4_MPBttstckGDM,			*,	-1,	5000
+		DHM4_MPBttstckBS,			*,	-1,	5000
+		DHM4_CQBBttstckBO3,			*,	-1,	5000
+		DHM4_CQBBttstckDM,			*,	-1,	5000
+		DHM4_CQBBttstckGC,			*,	-1,	5000
+		DHM4_CQBBttstckGDM,			*,	-1,	5000
+		DHM4_CQBBttstckBS,			*,	-1,	5000
+		DHM4_PHndgrdBO3,			*,	-1,	5000
+		DHM4_PHndgrdDM,			*,	-1,	5000
+		DHM4_PHndgrdGC,			*,	-1,	5000
+		DHM4_PHndgrdGDM,			*,	-1,	5000
+		DHM4_PHndgrdBS,			*,	-1,	5000
+		DHM4_RISHndgrdBO3,			*,	-1,	5000
+		DHM4_RISHndgrdDM,			*,	-1,	5000
+		DHM4_RISHndgrdGC,			*,	-1,	5000
+		DHM4_RISHndgrdGDM,			*,	-1,	5000
+		DHM4_RISHndgrdBS,			*,	-1,	5000
+		DHM4_MPHndgrdBO3,			*,	-1,	5000
+		DHM4_MPHndgrdDM,			*,	-1,	5000
+		DHM4_MPHndgrdGC,			*,	-1,	5000
+		DHM4_MPHndgrdGDM,			*,	-1,	5000
+		DHM4_MPHndgrdBS,			*,	-1,	5000
+
+	
+	<Category> DH Mags
+	
+	
+		Mag_DH1911_Red,			M,	-1,	5000 
+		Mag_DH1911_BG,			M,	-1,	5000 
+		Mag_DH1911_Blue,			M,	-1,	5000 
+		Mag_DH1911_GH,			M,	-1,	5000 
+		Mag_DH1911_Pat,			M,	-1,	5000	
+			
+		DH_L96A1_Mag5Rnd,			M,	10000,	5000	
+		DH_L96A1_Mag5_RedCamo,			M,	10000,	5000	
+		DH_L96A1_Mag10Rnd,			M,	10000,	5000	
+		DH_L96A1_Mag10_RedCamo,			M,	10000,	5000	
+
+		DH_Mag_P90_50Rnd,			M,	10000,	5000	
+		DH_Mag_P90_50_RedCamo,			M,	10000,	5000			
+			
+		Mag_DHMP5_15DGreen,			M,	-1,	5000 
+		Mag_DHMP5_30DGreen,			M,	-1,	5000 
+		Mag_DHMP5_15Black,			M,	-1,	5000 
+		Mag_DHMP5_30Black,			M,	-1,	5000 
+		Mag_DHMP5_15Multi,			M,	-1,	5000 
+		Mag_DHMP5_30Multi,			M,	-1,	5000 
+		Mag_DHMP5_15Wood,			M,	-1,	5000 
+		Mag_DHMP5_30Wood,			M,	-1,	5000	
+		
+		DH_HoneyBadger_Mag30Rnd,			M,	10000,	5000	
+		DH_HoneyBadger_Mag60Rnd,			M,	10000,	5000	
+		DH_HoneyBadger_Mag30Rnd_RC,			M,	10000,	5000	
+		DH_HoneyBadger_Mag60Rnd_RC,			M,	10000,	5000
+
+		DH_Groza_Mag30,			M,	10000,	5000
+		DH_Groza_Mag30_GSkull,			M,	10000,	5000
+		DH_Groza_Mag20,			M,	10000,	5000
+		DH_Groza_Mag20_GSkull,			M,	10000,	5000
+			
+			
+			
+		Mag_DHSaiga_5BDU,			M,	-1,	5000 
+		Mag_DHSaiga_5DirtyWood,			M,	-1,	5000 
+		Mag_DHSaiga_5Grass,			M,	-1,	5000 
+		Mag_DHSaiga_5GreenCamo,			M,	-1,	5000 
+		Mag_DHSaiga_5oak,			M,	-1,	5000 
+
+		Mag_DHSaiga_8BDU,			M,	-1,	5000 
+		Mag_DHSaiga_8Grass,			M,	-1,	5000 
+		Mag_DHSaiga_8GreenCamo,			M,	-1,	5000 
+		Mag_DHSaiga_8oak,			M,	-1,	5000 
+
+		Mag_DHSaiga_DrumBDU,			M,	-1,	5000 
+		Mag_DHSaiga_DrumDirtWood,			M,	-1,	5000 
+		Mag_DHSaiga_DrumGrass,			M,	-1,	5000 
+		Mag_DHSaiga_DrumGreenCamo,			M,	-1,	5000 
+		Mag_DHSaiga_DrumOak,			M,	-1,	5000 	
+			
+			
+			
+			
+		Mag_DHCZ527_5Mil1,			M,	-1,	5000 
+		Mag_DHCZ527_5Mil2,			M,	-1,	5000 
+		Mag_DHCZ527_5Mil3,			M,	-1,	5000 
+		Mag_DHCZ527_5Mil4,			M,	-1,	5000 
+		Mag_DHCZ527_5Mil5,			M,	-1,	5000 
+		Mag_DHCZ527_5Mil6,			M,	-1,	5000 
+		Mag_DHCZ527_5Mil7,			M,	-1,	5000 
+		Mag_DHCZ527_5Mil8,			M,	-1,	5000 
+		Mag_DHCZ527_5Mil9,			M,	-1,	5000 	
+			
+			
+		Mag_DHM4_30RndBO3,			M,	-1,	5000 
+		Mag_DHM4_30RndDM,			M,	-1,	5000 
+		Mag_DHM4_30RndGC,			M,	-1,	5000 
+		Mag_DHM4_30RndGDM,			M,	-1,	5000 
+		Mag_DHM4_30RndBS,			M,	-1,	5000 
+		Mag_DHM4Coupled_30BO3,			M,	-1,	5000 
+		Mag_DHM4Coupled_30DM,			M,	-1,	5000 
+		Mag_DHM4Coupled_30GC,			M,	-1,	5000 
+		Mag_DHM4Coupled_30GDM,			M,	-1,	5000 
+		Mag_DHM4Coupled_30BS,			M,	-1,	5000 
+		Mag_DHM4_60BO3,			M,	-1,	5000 
+		Mag_DHM4_60DM,			M,	-1,	5000 
+		Mag_DHM4_60GC,			M,	-1,	5000 
+		Mag_DHM4_60GDM,			M,	-1,	5000 
+		Mag_DHM4_60BS,			M,	-1,	5000	
+	
+	
+	
+	
+	
+	<Category> DH Suppressor	
+	
+		DH_Groza_Suppressor,			*,	10000,	5000	
+		DH_UniversalSuppressor,			*,	20000,	5000
+		DH_UniSupp_BDUWoodland,			*,	-1,	5000
+		DH_UniSupp_BlackCamo,			*,	-1,	5000
+		DH_UniSupp_BlueSkullsL,			*,	-1,	5000
+		DH_UniSupp_BO3DarkMatter,			*,	-1,	5000
+		DH_UniSupp_DirtWood,			*,	-1,	5000
+		DH_UniSupp_Dramascus,			*,	-1,	5000
+		DH_UniSupp_GoldHoneycomb,			*,	-1,	5000
+		DH_UniSupp_GrassCamo,			*,	-1,	5000
+		DH_UniSupp_GreenCircles,			*,	-1,	5000
+		DH_UniSupp_GreenDarkCamo,			*,	-1,	5000
+		DH_UniSupp_GreenGreenCamo,			*,	-1,	5000
+		DH_UniSupp_MossyOak,			*,	-1,	5000
+		DH_UniSupp_Multi,			*,	-1,	5000
+		DH_UniSupp_Pat1,			*,	-1,	5000
+		DH_UniSupp_RedCamo,			*,	-1,	5000
+		DH_UniSupp_mil1,			*,	-1,	5000
+		DH_UniSupp_mil2,			*,	-1,	5000
+		DH_UniSupp_mil3,			*,	-1,	5000
+		DH_UniSupp_mil4,			*,	-1,	5000
+		DH_UniSupp_mil5,			*,	-1,	5000
+		DH_UniSupp_mil6,			*,	-1,	5000
+		DH_UniSupp_mil7,			*,	-1,	5000
+		DH_UniSupp_mil8,			*,	-1,	5000
+		DH_UniSupp_mil9,			*,	-1,	5000
+		
+		
+<Category> DH Sprays
+
+    DH_Spray_RedCarbon,			*,	-1,	5000
+    DH_Spray_Skulls,			*,	-1,	5000
+    DH_Spray_RedCamo,			*,	-1,	5000
+    DH_Spray_BlackGold,			*,	-1,	5000
+    DH_Spray_BlueSkulls,			*,	-1,	5000
+    DH_Spray_GoldHoneycomb,			*,	-1,	5000
+    DH_Spray_Pat1,			*,	-1,	5000
+    DH_Spray_BO3DarkMatter,			*,	-1,	5000
+    DH_Spray_Dramascus,			*,	-1,	5000
+    DH_Spray_GreenCircles,			*,	-1,	5000
+    DH_Spray_GreenDramascus,			*,	-1,	5000
+    DH_Spray_BlueSkullsL,			*,	-1,	5000
+    DH_Spray_GreenDarkCamo,			*,	-1,	5000
+    DH_Spray_BlackCamo,			*,	-1,	5000
+    DH_Spray_Multi,			*,	-1,	5000
+    DH_Spray_BDU,			*,	-1,	5000
+    DH_Spray_DirtWood,			*,	-1,	5000
+    DH_Spray_GrassCamo,			*,	-1,	5000
+    DH_Spray_GreenGreenCamo,			*,	-1,	5000
+    DH_Spray_MossyOak,			*,	-1,	5000
+    DH_Spray_Mil1,			*,	-1,	5000
+    DH_Spray_Mil2,			*,	-1,	5000
+    DH_Spray_Mil3,			*,	-1,	5000
+    DH_Spray_Mil4,			*,	-1,	5000
+    DH_Spray_Mil5,			*,	-1,	5000
+    DH_Spray_Mil6,			*,	-1,	5000
+    DH_Spray_Mil7,			*,	-1,	5000
+    DH_Spray_Mil8,			*,	-1,	5000
+    DH_Spray_Mil9,			*,	-1,	5000
+
+
+<Category> DH Upgrade Kits	
+
+	DH_CleanKit,			*,	-1,	5000
+    DH_UpgradeKit_Groza9,			*,	-1,	5000
+    DH_UpgradeKit_Groza762,			*,	-1,	5000
+    DH_UpgradeKit_Honey556,			*,	-1,	5000
+    DH_UpgradeKit_HoneyAAC,			*,	-1,	5000
+	DH_UpgradeKit_L96A1,			*,	-1,	5000
+	
+<Category> DH Ammo	
+
+
+    DH_AmmoBox_300AAC,			*,	-1,	5000
+    DH_AmmoBox_300AACTracer,			*,	-1,	5000
+    DH_AmmoBox_300AACTracer,			*,	-1,	5000
+    DH_Ammo_300AACTracer,			*,	-1,	5000
+	DH_Ammo_5_7x28,			*,	-1,	5000
+	DH_Ammo_338,			*,	-1,	5000
+	DH_Ammo_338Tracer,			*,	-1,	5000
+	DH_AmmoBox_5_7_x28,			*,	-1,	5000
+	DH_AmmoBox_338,			*,	-1,	5000
+	DH_AmmoBox_338Tracer,			*,	-1,	5000

@@ -1,0 +1,89 @@
+
+V 0.1
+
+
+Item Pack Names :
+
+ 
+DHPowerline9v
+DHPowerline9vPlus
+DHPowerlineSuper
+land_RCube_S - Solved
+land_RCube_M  - Mixed
+ 
+
+
+
+Base Items:
+land_MBox1 
+land_MilBox1
+land_MilBox2
+land_Bed1
+ 
+Static Items:
+land_DH_Table
+land_DH_AirTower
+
+
+DHAmong Class Names : 
+
+land_DHAU_RedSmall       - Red                                      Small = Bear Size
+land_DHAU_RedXL   		 										    XL = Barrel Size
+land_DHAU_RedLS    		 										    LS = Life Size
+land_DHAU_RedSmall_Static                                           Static - Static Items For Server  Owners 
+land_DHAU_RedXL_Static
+land_DHAU_RedLS_Static
+
+land_DHAU_GreenSmall    - Green
+land_DHAU_GreenXL	    
+land_DHAU_GreenLS	    
+land_DHAU_GreenSmall_Static
+land_DHAU_GreenXL_Static
+land_DHAU_GreenLS_Static
+
+land_DHAU_DBlueSmall    - Dark Blue
+land_DHAU_DBlueXL	    
+land_DHAU_DBlueLS	    
+land_DHAU_DBlueSmall_Static
+land_DHAU_DBlueXL_Static
+land_DHAU_DBlueLS_Static
+
+land_DHAU_YellowSmall    - Yellow	
+land_DHAU_YellowXL	    
+land_DHAU_YellowLS	     
+land_DHAU_YellowSmall_Static
+land_DHAU_YellowXL_Static
+land_DHAU_YellowLS_Static
+
+
+DH Flags:
+
+DHFlag_UnitedKingdom 
+DHFlag_Ireland 
+DHFlag_Skyline 
+DHFlag_Russia 
+DHFlag_Lithuania 
+DHFlag_Hungry 
+DHFlag_Austra 
+DHFlag_Netherlands 
+DHFlag_Spain 
+DHFlag_Poland 
+DHFlag_Ukraine 
+DHFlag_France 
+DHFlag_Italy 
+DHFlag_Denmark 
+DHFlag_Sweeden 
+DHFlag_Czech 
+DHFlag_USA 
+DHFlag_Canada 
+DHFlag_Germany 
+DHFlag_Australia
+
+DHFlag_ColorCani
+DHFlag_ColorCani1
+DHFlag_CaniTrip
+DHFlag_CaniPirate
+
+
+
+

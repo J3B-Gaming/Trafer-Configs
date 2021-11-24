@@ -1,0 +1,46 @@
+Recipies
+
+Guns + Attachments + Mags + Suppressor:
+
+"1911" or "1991 Engraved" "1911Mag" + DH_Spray_ "RedCamo" , "BlackGold" , "BlueSkulls" , "GoldHoneycomb" , "Pat1" = Corresponding Camo Item  
+
+"MP5" or "Any MP5 Attachment" "Any MP5 Mag" + DH_Spray_ "GreenDarkCamo" , "BlackCamo" , "Multi" , "BDU" = Corresponding Camo Item  
+
+"M4A1" or "Any M4A1 Attachment" "M4A1 30/60Rnd or Coupled Mag" + DH_Spray_ "BO3DarkMatter" , "Dramascus" , "GreenCircles" , "GreenDramascus" , "BlueSkullsL" = Corresponding Camo Item  
+
+"Saiga" or "Any Saiga Attachment" "Any Saiga Mag" + DH_Spray_ "BDU" , "DirtWood" , "GrassCamo" , "GreenGreenCamo" , "MossyOak" = Corresponding Camo Item 
+
+"SKS" or "CZ527" "Any CZ527 Mag" + DH_Spray_ Mil1,2,3,4,5,6,7,8,9 = Camo Item 
+
+"DH_UniversalSuppressor" + "Any DH_Spray"  = Corresponding Camo Suppressor
+
+
+Medical
+
+"StartKitIV" + "Epinephrine"  = DH_Stim
+"SalineBagIV" + "DH_Stim"  = DH_Super_Stim
+"BloodBagFullIV" + "DH_Super_Stim"  = DH_Extreme_Stim
+
+
+
+Drug's
+
+
+
+"DHD_Drug" + "Same DHD_Drug"  = Same Drug "DHD_Baggie_"
+
+20 x "DHD_Baggie_" + "Epoxy Putty"  = Same Drug "DHD_Brick_"
+
+3 x "DHD_Brick_" + "Epoxy Putty"  = Same Drug "DHD_Stack_"
+
+3x "DHD_Baggie_" + "DH_EptTinCan"  = Same Drug "DH_FoodCan_"
+
+
+Ghillie:
+
+Use any piece off ghillie with a Winter Spray to create winter version off the item
+
+
+Dismantle Base Object 
+
+Hatchet Or  Vanilla ScrewDriver

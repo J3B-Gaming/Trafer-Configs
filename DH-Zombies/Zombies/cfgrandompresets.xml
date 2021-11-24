@@ -1,0 +1,6 @@
+ <cargo chance="0.50" name="Mongrolsloot">
+        <item name="DHD_Baggie_BC" chance="0.15" />
+        <item name="DHD_Brick_BC" chance="0.15" />
+        <item name="DHD_Stack_BC" chance="0.15" />
+        <item name="DHD_SPack_CP" chance="0.15" />
+    </cargo>
