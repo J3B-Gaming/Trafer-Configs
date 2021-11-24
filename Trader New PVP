@@ -56,7 +56,7 @@
 	
 		
 	<Category> Electronics
-		Battery9V,                              *,        500,      300            
+		Battery9V,                              *,        1000,      300            
 		PersonalRadio,                          *,        1000,     500            
 		Megaphone,                              *,        300,      15             
 		ElectronicRepairKit,                    *,        350,      17             
@@ -64,14 +64,14 @@
 		BatteryCharger,                         *,        500,      20             
 		BaseRadio,                              *,        2500,     30             
 		Rangefinder,                            *,        450,      35             
-		NVGoggles,                              *,        400,      220            
+		NVGoggles,                              *,        10000,      2200            
 	
 	<Category> Fire&Lights
-		Chemlight_Blue,                         *,        200,      100            
-		Chemlight_Green,                        *,        200,      100            
-		Chemlight_Red,                          *,        200,      101            
-		Chemlight_White,                        *,        200,      100            
-		Chemlight_Yellow,                       *,        200,      100            
+		Chemlight_Blue,                         *,        2000,      100            
+		Chemlight_Green,                        *,        2000,      100            
+		Chemlight_Red,                          *,        2000,      101            
+		Chemlight_White,                        *,        2000,      100            
+		Chemlight_Yellow,                       *,        2000,      100            
 		Roadflare,                              *,        400,      200            
 		Matchbox,                               *,        250,      125            
 		Flashlight,                             *,        300,      100            
@@ -99,20 +99,20 @@
 		XmasLights,                             *,        450,      50             
 		HandcuffKeys,                           *,        35,       12             
 		Handcuffs,                              *,        500,      150            
-		Netting,                                1,        499,      199            
-		BurlapSack,                             *,        750,      250            
+		Netting,                                2,        4099,      199            
+		BurlapSack,                             *,        1750,      250            
 		WoodenPlank,                            10,       2500,     175           
 		WoodenLog,                              1,        5000,      250           
 		MetalPlate,                             *,        4000,     1800           
 		SmallProtectorCase,                     *,        1000,     350            
-		AmmoBox,                                *,        1250,     375            
+		AmmoBox,                                *,        5250,     375            
 		SmallGasCanister,                       *,        785,      295            
 		MediumGasCanister,                      *,        912,      339            
 		LargeGasCanister,                       *,        1199,     399            
 		CanisterGasoline,                       *,        5000,     2500           
-		NailBox,                                *,        1000,     500            
+		NailBox,                                *,        3750,     500            
 		BarbedWire,                             *,        1000,     500            
-		Camonet,                                *,        1500,     750            
+		Camonet,                                *,        5500,     750            
 		HescoBox,                               *,        2000,     750            
 		CombinationLock,                        *,        2500,     1000           
 		CombinationLock4,                       *,        3000,     1250           
@@ -157,9 +157,9 @@
 
 <Category> BaseBuildingPlus
         CodeLock,										*,		5000,		2500
-		BBP_Land_Claim_FlagKit,							*,		5000,		2500
+		BBP_Land_Claim_FlagKit,							*,		15000,		2500
 		BBP_Blueprint,									*,		100,		50
-		BBP_Workbench,									*,		150,		75
+		BBP_Workbench,									*,		25000,		75
 		BBP_T1_WallKit,									*,		200,		100
 		BBP_T1_Wall_HalfKit,							*,		200,		100
 		BBP_T1_DoorKit,									*,		300,		150
@@ -576,12 +576,12 @@
 		
 <Category> DH Upgrade Kits	
 
-	DH_CleanKit,			*,	5000,	3000
-    DH_UpgradeKit_Groza9,			*,	25000,	5000
-    DH_UpgradeKit_Groza762,			*,	25000,	5000
-    DH_UpgradeKit_Honey556,			*,	25000,	5000
-    DH_UpgradeKit_HoneyAAC,			*,	25000,	5000
-	DH_UpgradeKit_L96A1,			*,	25000,	5000
+    DH_CleanKit,				*,	7500,	3000
+    DH_UpgradeKit_Groza9,			*,	50000,	5000
+    DH_UpgradeKit_Groza762,			*,	50000,	5000
+    DH_UpgradeKit_Honey556,			*,	50000,	5000
+    DH_UpgradeKit_HoneyAAC,			*,	50000,	5000
+    DH_UpgradeKit_L96A1,			*,	50000,	5000
 
 <Trader> Misc Trader								// ID = 4
 	<Category> Keys
@@ -1729,7 +1729,6 @@
 		NBCBootsGray,                           *,        20000,     1000 
 
 <Trader> Devils House Trader  						// ID = 6
-	<Category> Items
 <Category> DH Ammo Cases
 
     DH_Gunpowder,			*,	5000,	1000
@@ -1855,12 +1854,7 @@
 		DHFlag_We,			*,	10000,	5000
 
 <Trader> Drugs Trader								// ID = 7
-	<Category> Items
-	        DHD_SourDieselSeeds,			*,	-1,	50
-		DHD_BlueCSeeds,			*,	-1,	50
-		DHD_BlueDreamSeeds,			*,	-1,	50
-		DHD_CherryPieSeeds,			*,	-1,	50
-		DHD_OGKushSeeds,			*,	-1,	50	
+	<Category> Drugs
 			
 		DHD_SPack_BlueC,			*,	15000,	5000
 		DHD_SPack_CP,			*,	20000,	5000
@@ -1909,7 +1903,6 @@
 
 			
 <Trader> Black Market Weapons Trader				// ID = 10
-	<Category> Items
 <Category> DH Sprays
 
     DH_Spray_RedCarbon,			*,	-1,	5000
