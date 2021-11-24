@@ -9,113 +9,16 @@
         //                                                                                             //
         /////////////////////////////////////////////////////////////////////////////////////////////////
 
-<CurrencyName> #tm_ruble							// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
-	<Currency> MoneyRuble1, 	1					// Currency Classname, Currency Money Value
-	<Currency> MoneyRuble5, 	5
-	<Currency> MoneyRuble10, 	10
-	<Currency> MoneyRuble25, 	25
-	<Currency> MoneyRuble50, 	50
-	<Currency> MoneyRuble100, 	100
+<CurrencyName> J3B							// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
+	<Currency> DH_J3B_1, 	1					// Currency Classname, Currency Money Value
+	<Currency> DH_J3B_5, 	5
+	<Currency> DH_J3B_10, 	10
+	<Currency> DH_J3B_20, 	20
+	<Currency> DH_J3B_50, 	50
+	<Currency> DH_J3B_100, 	100
 
 
-<Trader> Consume Trader								// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
-	<Category> Vegetables							// Category Name
-		CaninaBerry,			*,		1,		-1	// Item Classname, Quantity, Buyvalue, Sellvalue
-		SambucusBerry,			*,		1,		-1	// Quantity * means max value; Quantity V means Vehicle; Quantity VNK means Vehicle without Key; Quantity M means Magazine; Quantity W means Weapon; Quantity S means Steack Meat; Quantity K means Key Duplication
-		Plum,					*,		1,		-1	// Buyvalue -1 means it can not be bought
-		Kiwi,					*,		1,		-1	// Sellvalue -1 means it can not be selled
-		Apple,					*,		1,		-1
-		Pear,					*,		1,		-1
-		Orange,					*,		1,		-1
-		Banana,					*,		1,		-1
-		Tomato,					*,		1,		-1
-		Potato,					*,		1,		-1
-		GreenBellPepper,		*,		1,		-1
-		Zucchini,				*,		3,		1
-		Pumpkin,				*,		8,		3
-		AgaricusMushroom,		*,		2,		1
-		AmanitaMushroom,		*,		2,		1
-		LactariusMushroom,		*,		2,		1
-		MacrolepiotaMushroom,	*,		2,		1
-		PsilocybeMushroom,		*,		2,		1
-		AuriculariaMushroom,	*,		2,		1
-		BoletusMushroom,		*,		2,		1
-		PleurotusMushroom,		*,		2,		1
-	
-	<Category> Packaged Food
-		PowderedMilk,			*,		1,		-1
-		BoxCerealCrunchin,		*,		2,		1
-		Rice,					*,		3,		1
-		Marmalade,				*,		3,		1
-		PeachesCan,				*,		4,		2
-		SardinesCan,			*,		4,		2
-		TunaCan,				*,		4,		2
-		SpaghettiCan,			*,		5,		2
-		BakedBeansCan,			*,		5,		2
-		TacticalBaconCan,		*,		5,		3		
-		
-	<Category> Meat
-		ChickenBreastMeat,		S,		2,		1
-		GoatSteakMeat,			S,		3,		1
-		SheepSteakMeat,			S,		3,		1
-		PigSteakMeat,			S,		4,		2
-		BoarSteakMeat,			S,		4,		2
-		WolfSteakMeat,			S,		4,		2
-		DeerSteakMeat,			S,		5,		2
-		CowSteakMeat,			S,		5,		2	
-		Sardines,				S,		7,		4
-		Carp,					S,		10,		5
-		Mackerel,				S,		10,		5
-		
-	<Category> Animal Parts
-		Bone,					*,		2,		1
-		Lard,					*,		2,		1
-		Guts,					*,		2,		1
-		SmallGuts,				*,		2,		1
-		
-	<Category> Drinks
-		SodaCan_Cola, 			*,		2, 		1
-		SodaCan_Kvass, 			*,		2, 		1
-		SodaCan_Pipsi, 			*,		2, 		1
-		SodaCan_Spite, 			*,		2, 		1
-		WaterBottle,			*,		5,		2
-		Canteen,				*,		8,		4
-		Vodka,					*,		12,		8
-		
-	<Category> Medical Supplies
-		//Rag,					1,		1,		-1
-		BandageDressing,		2,		3,		1
-		BloodTestKit,			*,		5,		2
-		//InjectionVial,		*,		5, 		2
-		Thermometer,			*,		5,		2
-		DisinfectantSpray,		*,		8,		5
-		//Syringe,				*,		8, 		5
-		Heatpack,				*,		10,		5
-		StartKitIV,				*,		10,		6
-		SalineBag,				*,		15,		8
-		BloodBagEmpty,			*,		18,		10
-		FirstAidKit,			*,		20,		10
-		//Defibrillator,		*,		35, 	20
-		
-	<Category> Medications
-		CharcoalTablets,		*,		2,		1
-		DisinfectantAlcohol,	*,		4,		2
-		VitaminBottle,			*,		6,		4
-		TetracyclineAntibiotics,*,		8,		5
-		PainkillerTablets,		*,		10,		6
-		Epinephrine,			*,		20,		10
-		Morphine,				*,		25,		15	
-		
-	<Category> Money Exchange
-		MoneyRuble1,			1,		1,		-1
-		MoneyRuble5,			1,		5,		-1
-		MoneyRuble10,			1,		10,		-1
-		MoneyRuble25,			1,		25,		-1
-		MoneyRuble50,			1,		50,		-1
-		MoneyRuble100,			1,		100,	-1
-
-
-<Trader> Misc Trader
+<Trader> Building Trader  						// ID = 0
 	<Category> Tools (small)
 		Screwdriver,			*,		3,		1
 		Wrench,					*,		3,		1
@@ -223,23 +126,101 @@
 		PowerGenerator,			*,		3000,	1000
 		MediumTent,				*,		3000,	500		
 		CarTent,				*,		5000,	700
-		LargeTent,				*,		7000,	1200
+		LargeTent,				*,		7000,	1200 
+		
+		
+		
+<Trader> Consume Trader								// ID = 1
+	<Category> Vegetables							// Category Name
+		CaninaBerry,			*,		1,		-1	// Item Classname, Quantity, Buyvalue, Sellvalue
+		SambucusBerry,			*,		1,		-1	// Quantity * means max value; Quantity V means Vehicle; Quantity VNK means Vehicle without Key; Quantity M means Magazine; Quantity W means Weapon; Quantity S means Steack Meat; Quantity K means Key Duplication
+		Plum,					*,		1,		-1	// Buyvalue -1 means it can not be bought
+		Kiwi,					*,		1,		-1	// Sellvalue -1 means it can not be selled
+		Apple,					*,		1,		-1
+		Pear,					*,		1,		-1
+		Orange,					*,		1,		-1
+		Banana,					*,		1,		-1
+		Tomato,					*,		1,		-1
+		Potato,					*,		1,		-1
+		GreenBellPepper,		*,		1,		-1
+		Zucchini,				*,		3,		1
+		Pumpkin,				*,		8,		3
+		AgaricusMushroom,		*,		2,		1
+		AmanitaMushroom,		*,		2,		1
+		LactariusMushroom,		*,		2,		1
+		MacrolepiotaMushroom,	*,		2,		1
+		PsilocybeMushroom,		*,		2,		1
+		AuriculariaMushroom,	*,		2,		1
+		BoletusMushroom,		*,		2,		1
+		PleurotusMushroom,		*,		2,		1
 	
-	<Category> Seeds & Lime
-		TomatoSeedsPack,		*,		4, 		1
-		PepperSeedsPack,		*,		4, 		1
-		ZucchiniSeedsPack,		*,		6, 		2
-		PumpkinSeedsPack,		*,		10, 	3
-		GardenLime,				*,		20,		7
+	<Category> Packaged Food
+		PowderedMilk,			*,		1,		-1
+		BoxCerealCrunchin,		*,		2,		1
+		Rice,					*,		3,		1
+		Marmalade,				*,		3,		1
+		PeachesCan,				*,		4,		2
+		SardinesCan,			*,		4,		2
+		TunaCan,				*,		4,		2
+		SpaghettiCan,			*,		5,		2
+		BakedBeansCan,			*,		5,		2
+		TacticalBaconCan,		*,		5,		3		
 		
-	<Category> Fluffy Pets <3
-		Bear_Beige,				*,		5,		1
-		Bear_Dark,				*,		5,		1
-		Bear_Pink,				*,		5,		1
-		Bear_White,				*,		5,		1
+	<Category> Meat
+		ChickenBreastMeat,		S,		2,		1
+		GoatSteakMeat,			S,		3,		1
+		SheepSteakMeat,			S,		3,		1
+		PigSteakMeat,			S,		4,		2
+		BoarSteakMeat,			S,		4,		2
+		WolfSteakMeat,			S,		4,		2
+		DeerSteakMeat,			S,		5,		2
+		CowSteakMeat,			S,		5,		2	
+		Sardines,				S,		7,		4
+		Carp,					S,		10,		5
+		Mackerel,				S,		10,		5
+		
+	<Category> Animal Parts
+		Bone,					*,		2,		1
+		Lard,					*,		2,		1
+		Guts,					*,		2,		1
+		SmallGuts,				*,		2,		1
+		
+	<Category> Drinks
+		SodaCan_Cola, 			*,		2, 		1
+		SodaCan_Kvass, 			*,		2, 		1
+		SodaCan_Pipsi, 			*,		2, 		1
+		SodaCan_Spite, 			*,		2, 		1
+		WaterBottle,			*,		5,		2
+		Canteen,				*,		8,		4
+		Vodka,					*,		12,		8
+		
+	<Category> Medical Supplies
+		//Rag,					1,		1,		-1
+		BandageDressing,		2,		3,		1
+		BloodTestKit,			*,		5,		2
+		//InjectionVial,		*,		5, 		2
+		Thermometer,			*,		5,		2
+		DisinfectantSpray,		*,		8,		5
+		//Syringe,				*,		8, 		5
+		Heatpack,				*,		10,		5
+		StartKitIV,				*,		10,		6
+		SalineBag,				*,		15,		8
+		BloodBagEmpty,			*,		18,		10
+		FirstAidKit,			*,		20,		10
+		//Defibrillator,		*,		35, 	20
+		
+	<Category> Medications
+		CharcoalTablets,		*,		2,		1
+		DisinfectantAlcohol,	*,		4,		2
+		VitaminBottle,			*,		6,		4
+		TetracyclineAntibiotics,*,		8,		5
+		PainkillerTablets,		*,		10,		6
+		Epinephrine,			*,		20,		10
+		Morphine,				*,		25,		15	
 
-		
-<Trader> Weapon Trader
+
+
+<Trader> Weapon Trader									// ID = 2
 	<Category> Melee	
 		BrassKnuckles_Shiny,	W,		15,		6
 		StunBaton,				W,		15,		9
@@ -303,7 +284,7 @@
 		FlashGrenade,			1,		300,	100
 		
 		
-<Trader> Weapon Supplies
+<Trader> Weapon Supplies							// ID = 3
 	<Category> Ammunition
 		Ammo_380,				1,		1,		-1
 		Ammo_9x19,				1,		1,		-1
@@ -438,9 +419,45 @@
 		
 	<Category> Flashlights
 		Universallight,			*,		120,	60
-	
-	
-<Trader> Clothing Trader
+		
+
+
+<Trader> Misc Trader								// ID = 4
+	<Category> Keys
+		
+		MCK_CarKey_Base, 				*, 	5000,	-1
+		MCK_CarKey_Blue, 				*, 	5000,	-1
+		MCK_CarKey_Green, 				*, 	5000,	-1
+		MCK_CarKey_White, 				*, 	5000,	-1
+		MCK_CarKey_Yellow, 				*, 	5000,	-1
+		MCK_CarKey_Red, 				*, 	5000,	-1
+		
+		MCK_CarKeyTag_Base, 			*, 	500, 	-1
+		MCK_CarKeyTag_OlgaBlack, 		*, 	500, 	-1
+		MCK_CarKeyTag_OlgaWhite, 		*, 	500, 	-1
+		MCK_CarKeyTag_OlgaWine, 		*, 	500, 	-1
+		MCK_CarKeyTag_AdaBlue, 			*, 	500, 	-1
+		MCK_CarKeyTag_AdaWhite, 		*, 	500, 	-1
+		MCK_CarKeyTag_AdaGreen, 		*, 	500, 	-1
+		MCK_CarKeyTag_GunterBlue, 		*, 	500, 	-1
+		MCK_CarKeyTag_GunterBlack, 		*, 	500, 	-1
+		MCK_CarKeyTag_GunterRed, 		*, 	500, 	-1
+		MCK_CarKeyTag_SarkaGrey, 		*, 	500, 	-1
+		MCK_CarKeyTag_SarkaRed, 		*, 	500, 	-1
+		MCK_CarKeyTag_SarkaYellow, 		*, 	500, 	-1
+		MCK_CarKeyTag_Black, 			*, 	500, 	-1
+		MCK_CarKeyTag_Blue, 			*, 	500, 	-1
+		MCK_CarKeyTag_Green, 			*, 	500, 	-1
+		MCK_CarKeyTag_Grey, 			*, 	500, 	-1
+		MCK_CarKeyTag_Red, 				*, 	500, 	-1
+		MCK_CarKeyTag_White, 			*, 	500, 	-1
+		MCK_CarKeyTag_Yellow, 			*, 	500, 	-1
+
+
+
+
+
+<Trader> Clothing Trader						// ID = 5
 	<Category> Glasses
 		SportGlasses_Orange,	*,		17,		8
 		SportGlasses_Blue,		*,		18,		9
@@ -990,60 +1007,81 @@
 		AliceBag_Black,			*,		400,	150
 		AliceBag_Green,			*,		400,	150
 		AliceBag_Camo,			*,		500,	220
+		
+		
+<Trader> Devils House Trader  						// ID = 6
+	<Category> Items
 
-	//<Category> Handmade
-		//LeatherGloves_Beige,	*,		0,		0
-		//LeatherGloves_Black,	*,		0,		0
-		//LeatherGloves_Brown,	*,		0,		0
-		//LeatherGloves_Natural,*,		0,		0
-		//LeatherHat_Beige,		*,		0,		0
-		//LeatherHat_Black,		*,		0,		0
-		//LeatherHat_Brown,		*,		0,		0
-		//LeatherHat_Natural,	*,		0,		0
-		//LeatherShirt_Natural,	*,		0,		0
-		//LeatherStorageVest_Beige,*,	0,		0
-		//LeatherStorageVest_Black,*,	0,		0
-		//LeatherStorageVest_Brown,*,	0,		0
-		//LeatherStorageVest_Natural,*,	0,		0
-		//LeatherJacket_Beige,	*,		0,		0
-		//LeatherJacket_Black,	*,		0,		0
-		//LeatherJacket_Brown,	*,		0,		0
-		//LeatherJacket_Natural,*,		0,		0
-		//LeatherPants_Beige,	*,		0,		0
-		//LeatherPants_Black,	*,		0,		0
-		//LeatherPants_Brown,	*,		0,		0
-		//LeatherPants_Natural,	*,		0,		0
-		//LeatherShoes_Beige,	*,		0,		0
-		//LeatherShoes_Black,	*,		0,		0
-		//LeatherShoes_Brown,	*,		0,		0
-		//LeatherShoes_Natural,	*,		0,		0
-		//CourierBag,			*,		0,		0
-		//FurCourierBag,		*,		0,		0
-		//FurImprovisedBag,		*,		0,		0
-		//ImprovisedBag,		*,		0,		0
-		//LeatherSack_Beige,	*,		0,		0
-		//LeatherSack_Black,	*,		0,		0
-		//LeatherSack_Brown,	*,		0,		0
-		//LeatherSack_Natural,	*,		0,		0
+
+<Trader> Drugs Trader								// ID = 7
+	<Category> Items
+
+
+<Trader> Black Market Clothes Trader				// ID = 8
+	<Category> Items
+
+
+<Trader> Black Market Tools Trader					// ID = 9
+	<Category> Items
+
+			
+<Trader> Black Market Weapons Trader				// ID = 10
+	<Category> Items
+
+		
+<Trader> Black Market Consume Trader				// ID = 11
+	<Category> Items
+
 	
-	
-<Trader> Vehicles Trader
+<Trader> Black Market Helicopter Trader				// ID = 12
+	<Category> Keys
+		
+		MCK_CarKey_Base, 				*, 	5000,	-1
+		MCK_CarKey_Blue, 				*, 	5000,	-1
+		MCK_CarKey_Green, 				*, 	5000,	-1
+		MCK_CarKey_White, 				*, 	5000,	-1
+		MCK_CarKey_Yellow, 				*, 	5000,	-1
+		MCK_CarKey_Red, 				*, 	5000,	-1
+		
+		MCK_CarKeyTag_Base, 			*, 	500, 	-1
+		MCK_CarKeyTag_OlgaBlack, 		*, 	500, 	-1
+		MCK_CarKeyTag_OlgaWhite, 		*, 	500, 	-1
+		MCK_CarKeyTag_OlgaWine, 		*, 	500, 	-1
+		MCK_CarKeyTag_AdaBlue, 			*, 	500, 	-1
+		MCK_CarKeyTag_AdaWhite, 		*, 	500, 	-1
+		MCK_CarKeyTag_AdaGreen, 		*, 	500, 	-1
+		MCK_CarKeyTag_GunterBlue, 		*, 	500, 	-1
+		MCK_CarKeyTag_GunterBlack, 		*, 	500, 	-1
+		MCK_CarKeyTag_GunterRed, 		*, 	500, 	-1
+		MCK_CarKeyTag_SarkaGrey, 		*, 	500, 	-1
+		MCK_CarKeyTag_SarkaRed, 		*, 	500, 	-1
+		MCK_CarKeyTag_SarkaYellow, 		*, 	500, 	-1
+		MCK_CarKeyTag_Black, 			*, 	500, 	-1
+		MCK_CarKeyTag_Blue, 			*, 	500, 	-1
+		MCK_CarKeyTag_Green, 			*, 	500, 	-1
+		MCK_CarKeyTag_Grey, 			*, 	500, 	-1
+		MCK_CarKeyTag_Red, 				*, 	500, 	-1
+		MCK_CarKeyTag_White, 			*, 	500, 	-1
+		MCK_CarKeyTag_Yellow, 			*, 	500, 	-1
+
+
+<Trader> Vehicles Trader 							// ID = 13
 	<Category> Vehicles
-		OffroadHatchback,		V,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
-		OffroadHatchback_Blue,	V,		14000,	8000
-		OffroadHatchback_White,	V,		14000,	8000
-		Hatchback_02,			V,		16000,	9600
-		Hatchback_02_Blue,		V,		16000,	9600
-		Hatchback_02_Black,		V,		16000,	9600
-		Sedan_02,				V,		18000,	10200
-		Sedan_02_Red,			V,		18000,	10200
-		Sedan_02_Grey,			V,		18000,	10200
-		CivilianSedan,			V,		20000,	11000
-		CivilianSedan_Wine,		V,		20000,	11000
-		CivilianSedan_Black,	V,		20000,	11000
-		Truck_01_Covered,		V,		50000,	30000
-        Truck_01_Covered_Blue,	V,		50000,	30000
-        Truck_01_Covered_Orange,V,		50000,	30000
+		OffroadHatchback,		VNK		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
+		OffroadHatchback_Blue,	VNK		14000,	8000
+		OffroadHatchback_White,	VNK		14000,	8000
+		Hatchback_02,			VNK		16000,	9600
+		Hatchback_02_Blue,		VNK		16000,	9600
+		Hatchback_02_Black,		VNK		16000,	9600
+		Sedan_02,				VNK		18000,	10200
+		Sedan_02_Red,			VNK		18000,	10200
+		Sedan_02_Grey,			VNK		18000,	10200
+		CivilianSedan,			VNK		20000,	11000
+		CivilianSedan_Wine,		VNK		20000,	11000
+		CivilianSedan_Black,	VNK		20000,	11000
+		Truck_01_Covered,		VNK		50000,	30000
+        Truck_01_Covered_Blue,	VNK		50000,	30000
+        Truck_01_Covered_Orange,VNK		50000,	30000
 	
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
@@ -1202,8 +1240,36 @@
         Truck_01_WheelDouble,				*,		1000,	200
 		
 	<Category> Keys
-		VehicleKeyDuplicate,	K,		2000,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
-		VehicleKeyLost,    		KL,    	5000,   -1		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
+		
+		MCK_CarKey_Base, 				*, 	5000,	-1
+		MCK_CarKey_Blue, 				*, 	5000,	-1
+		MCK_CarKey_Green, 				*, 	5000,	-1
+		MCK_CarKey_White, 				*, 	5000,	-1
+		MCK_CarKey_Yellow, 				*, 	5000,	-1
+		MCK_CarKey_Red, 				*, 	5000,	-1
+		
+		MCK_CarKeyTag_Base, 			*, 	500, 	-1
+		MCK_CarKeyTag_OlgaBlack, 		*, 	500, 	-1
+		MCK_CarKeyTag_OlgaWhite, 		*, 	500, 	-1
+		MCK_CarKeyTag_OlgaWine, 		*, 	500, 	-1
+		MCK_CarKeyTag_AdaBlue, 			*, 	500, 	-1
+		MCK_CarKeyTag_AdaWhite, 		*, 	500, 	-1
+		MCK_CarKeyTag_AdaGreen, 		*, 	500, 	-1
+		MCK_CarKeyTag_GunterBlue, 		*, 	500, 	-1
+		MCK_CarKeyTag_GunterBlack, 		*, 	500, 	-1
+		MCK_CarKeyTag_GunterRed, 		*, 	500, 	-1
+		MCK_CarKeyTag_SarkaGrey, 		*, 	500, 	-1
+		MCK_CarKeyTag_SarkaRed, 		*, 	500, 	-1
+		MCK_CarKeyTag_SarkaYellow, 		*, 	500, 	-1
+		MCK_CarKeyTag_Black, 			*, 	500, 	-1
+		MCK_CarKeyTag_Blue, 			*, 	500, 	-1
+		MCK_CarKeyTag_Green, 			*, 	500, 	-1
+		MCK_CarKeyTag_Grey, 			*, 	500, 	-1
+		MCK_CarKeyTag_Red, 				*, 	500, 	-1
+		MCK_CarKeyTag_White, 			*, 	500, 	-1
+		MCK_CarKeyTag_Yellow, 			*, 	500, 	-1		
+		
+		
 		
 		
 //<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
